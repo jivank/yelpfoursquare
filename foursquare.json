@@ -1,0 +1,6068 @@
+[
+    {
+        "address": "4115 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.65018793035544,
+        "long": -117.84062951803207,
+        "name": "In-N-Out Burger",
+        "tel": "8007861000",
+        "zipcode": "92612"
+    },
+    {
+        "address": "6507 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.65459319924119,
+        "long": -117.7800349214853,
+        "name": "Lucca Cafe",
+        "tel": "9497251773",
+        "zipcode": "92603"
+    },
+    {
+        "address": "4213 Campus Dr Ste 166B",
+        "city": "Irvine",
+        "lat": 33.65024374953304,
+        "long": -117.83781051635742,
+        "name": "Veggie Grill",
+        "tel": "9495090003",
+        "zipcode": "92612"
+    },
+    {
+        "address": "22701 Pelican Hill Rd S",
+        "city": "Newport Coast",
+        "lat": 33.588525844310574,
+        "long": -117.84467697143555,
+        "name": "Pelican Hill Coliseum Grill",
+        "tel": "9496120332",
+        "zipcode": "92657"
+    },
+    {
+        "address": "4249 Campus Dr Ste B148",
+        "city": "Irvine",
+        "lat": 33.64995215227018,
+        "long": -117.83903885026614,
+        "name": "Slapfish",
+        "tel": "9497372090",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4237 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.650368784359536,
+        "long": -117.8383469581604,
+        "name": "Le Diplomate Cafe",
+        "tel": "9498545161",
+        "zipcode": "92612"
+    },
+    {
+        "address": "22701 Pelican Hill Rd S",
+        "city": "Newport Coast",
+        "lat": 33.58828625,
+        "long": -117.844155,
+        "name": "Andrea - Pelican Hill Resort",
+        "tel": "8885076427",
+        "zipcode": "92657"
+    },
+    {
+        "address": "4255 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.64950956877856,
+        "long": -117.83931358880719,
+        "name": "Chipotle Mexican Grill",
+        "tel": "9492423737",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4187 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.65062758333333,
+        "long": -117.8390121459961,
+        "name": "Cha For Tea",
+        "tel": "9497250300",
+        "zipcode": "92612"
+    },
+    {
+        "address": "S Pelican Hill Rd",
+        "city": "Newport Coast",
+        "lat": 33.58841976382886,
+        "long": -117.84417295838526,
+        "name": "Cafe at Pelican Hill Resort",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "6741 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.655022342923914,
+        "long": -117.77809394443922,
+        "name": "Nalu's Island Grill",
+        "tel": "9498548900",
+        "zipcode": "92603"
+    },
+    {
+        "address": "4255 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.64997724990008,
+        "long": -117.83911325866184,
+        "name": "Blaze Pizza",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.65045625689473,
+        "long": -117.83807726211582,
+        "name": "Tender Greens",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "6745 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.65435194162687,
+        "long": -117.77794361114502,
+        "name": "SUBWAY",
+        "tel": "9496793383",
+        "zipcode": "92603"
+    },
+    {
+        "address": "21137 Newport Coast Dr",
+        "city": "Newport Coast",
+        "lat": 33.6081324,
+        "long": -117.8268886,
+        "name": "Mustard Cafe",
+        "tel": "9497180707",
+        "zipcode": "92657"
+    },
+    {
+        "address": "4127 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.64968262519661,
+        "long": -117.83976003805427,
+        "name": "Chick-fil-A",
+        "tel": "9497250230",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4175 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.65094478590067,
+        "long": -117.83909036377409,
+        "name": "Mendocino Farms",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "18040 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66469464683413,
+        "long": -117.82540443102499,
+        "name": "Hen House Grill",
+        "tel": "9497862000",
+        "zipcode": "92612"
+    },
+    {
+        "address": "1340 S Sanderson Ave",
+        "city": "Anaheim",
+        "lat": 33.65753791862421,
+        "long": -117.7515881178696,
+        "name": "The Greasy Wiener Truck",
+        "tel": "6199172169",
+        "zipcode": "92806"
+    },
+    {
+        "address": "15 Crystal Cv",
+        "city": "Newport Coast",
+        "lat": 33.57432738947454,
+        "long": -117.84031523623534,
+        "name": "The Beachcomber Cafe",
+        "tel": "9493766900",
+        "zipcode": "92657"
+    },
+    {
+        "address": "4533 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.6497546,
+        "long": -117.83201592,
+        "name": "Gina's Pizza",
+        "tel": "9497251144",
+        "zipcode": "92612"
+    },
+    {
+        "address": "6751 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.6548163336138,
+        "long": -117.77815818786621,
+        "name": "Natraj's Tandoori",
+        "tel": "9495091800",
+        "zipcode": "92603"
+    },
+    {
+        "address": "The Park",
+        "city": "Irvine",
+        "lat": 33.65371088133101,
+        "long": -117.75391304109613,
+        "name": "Le Cafe",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "5329 University Dr",
+        "city": "Irvine",
+        "lat": 33.65936133222055,
+        "long": -117.80307315633456,
+        "name": "Pho Tasia",
+        "tel": "9498570856",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.650684538996444,
+        "long": -117.83911325866184,
+        "name": "Eureka!",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "6725 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.65506638979954,
+        "long": -117.7780294418335,
+        "name": "Sharky's Woodfired Mexican Grill",
+        "tel": "7148561300",
+        "zipcode": "92603"
+    },
+    {
+        "address": "18086 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66391165988025,
+        "long": -117.82608389854431,
+        "name": "SUBWAY",
+        "tel": "9497866886",
+        "zipcode": "92612"
+    },
+    {
+        "address": "Uci",
+        "city": "Irvine",
+        "lat": 33.643146,
+        "long": -117.842597,
+        "name": "University Club",
+        "tel": "?",
+        "zipcode": "92697"
+    },
+    {
+        "address": "21119 Newport Coast Dr",
+        "city": "Newport Beach",
+        "lat": 33.608150283181864,
+        "long": -117.82660961151123,
+        "name": "Sharky's Woodfired Mexican Grill",
+        "tel": "9497291000",
+        "zipcode": "92657"
+    },
+    {
+        "address": "16277 Laguna Canyon Rd #C",
+        "city": "Irvine",
+        "lat": 33.657546136475816,
+        "long": -117.76984313255537,
+        "name": "Yasai Japanese Grill",
+        "tel": "9497538870",
+        "zipcode": "92618"
+    },
+    {
+        "address": "18000 Spectrum",
+        "city": "Irvine",
+        "lat": 33.654370438528396,
+        "long": -117.75504686005367,
+        "name": "Food Trucks @ The Park",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "?",
+        "city": "Newport Beach",
+        "lat": 33.587534656103045,
+        "long": -117.84413289344097,
+        "name": "Coliseum Grill (pool)",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "18090 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66378877430822,
+        "long": -117.82599974176436,
+        "name": "Class 302 \u4e09\u5e742\u73ed",
+        "tel": "9495520555",
+        "zipcode": "92612"
+    },
+    {
+        "address": "5301 University Dr",
+        "city": "Irvine",
+        "lat": 33.65856,
+        "long": -117.8037,
+        "name": "IHOP",
+        "tel": "9497865203",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4143 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.65055187074209,
+        "long": -117.83907115459442,
+        "name": "Kochee Kabob House",
+        "tel": "9498540206",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4537 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.649922708115874,
+        "long": -117.83191839887881,
+        "name": "Which Wich? Superior Sandwiches",
+        "tel": "9494289424",
+        "zipcode": "92612"
+    },
+    {
+        "address": "16277 Laguna Canyon Rd",
+        "city": "Irvine",
+        "lat": 33.65732884564063,
+        "long": -117.7697171631017,
+        "name": "Inka's",
+        "tel": "9497531276",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6781 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.6543599733093,
+        "long": -117.77862642690263,
+        "name": "La Pho",
+        "tel": "?",
+        "zipcode": "92603"
+    },
+    {
+        "address": "20 Pacifica",
+        "city": "Irvine",
+        "lat": 33.65080845707511,
+        "long": -117.74967547440565,
+        "name": "Specialty\u2019s Caf\u00e9 & Bakery",
+        "tel": "8775022837",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6731 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.655143,
+        "long": -117.778049,
+        "name": "O Fine Japanese Cuisine",
+        "tel": "9497481896",
+        "zipcode": "92603"
+    },
+    {
+        "address": "4199 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.650660048499084,
+        "long": -117.83847792446075,
+        "name": "Jimmy John's",
+        "tel": "9497253021",
+        "zipcode": "92612"
+    },
+    {
+        "address": "6640 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.65802248990065,
+        "long": -117.77381112632584,
+        "name": "Kaiser Irvine Cafeteria",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "21135 Newport Coast Dr",
+        "city": "Newport Beach",
+        "lat": 33.60819590363761,
+        "long": -117.82705870319425,
+        "name": "Newport Fusion Sushi",
+        "tel": "9497215884",
+        "zipcode": "92657"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.649408,
+        "long": -117.832245,
+        "name": "Hen House",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "22701 Pelican Hill Rd S",
+        "city": "Newport Coast",
+        "lat": 33.5881027,
+        "long": -117.8439034,
+        "name": "Coliseum Pool & Grill",
+        "tel": "8444430020",
+        "zipcode": "92657"
+    },
+    {
+        "address": "21123 Newport Coast Dr",
+        "city": "Newport Coast",
+        "lat": 33.608038,
+        "long": -117.826702,
+        "name": "Zov's Restaurant",
+        "tel": "9497609687",
+        "zipcode": "92657"
+    },
+    {
+        "address": "4213 Campus Dr #P166",
+        "city": "Irvine",
+        "lat": 33.650565,
+        "long": -117.838046,
+        "name": "California Teriyaki Grill",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4289 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.648619638008064,
+        "long": -117.83804864334328,
+        "name": "Jack in the Box",
+        "tel": "9498238983",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "?",
+        "lat": 33.65324713172533,
+        "long": -117.75375842888177,
+        "name": "The Burnt Truck",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.657522676490196,
+        "long": -117.77000345719017,
+        "name": "AJ's Sandwiches",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "Los Olivos Village",
+        "city": "Irvine",
+        "lat": 33.64570579956614,
+        "long": -117.74928034499993,
+        "name": "VIllage Market & Deli",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "?",
+        "city": "Orange County",
+        "lat": 33.65815987124091,
+        "long": -117.76616707951426,
+        "name": "Burger Monster",
+        "tel": "7148869627",
+        "zipcode": "92801"
+    },
+    {
+        "address": "100 Pacifica",
+        "city": "Irvine",
+        "lat": 33.659602479857945,
+        "long": -117.75466319482057,
+        "name": "Cafe O Deli",
+        "tel": "9497530933",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4517 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.64936692438883,
+        "long": -117.83230762686624,
+        "name": "Gatten Sushi",
+        "tel": "9496798322",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4293 Pereira Dr",
+        "city": "Irvine",
+        "lat": 33.64689018553828,
+        "long": -117.83843785826586,
+        "name": "Starbucks",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "100 Innovation Dr",
+        "city": "Irvine",
+        "lat": 33.646611064455065,
+        "long": -117.85443501766737,
+        "name": "Specialty\u2019s Caf\u00e9 & Bakery",
+        "tel": "?",
+        "zipcode": "92617"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.6610346065486,
+        "long": -117.77246556801585,
+        "name": "Hoag Cafeteria",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "8001 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.65358938690251,
+        "long": -117.7512960687986,
+        "name": "The Grille",
+        "tel": "9497274277",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6721 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.65512171265597,
+        "long": -117.77777903473152,
+        "name": "Johnny's Real New York Pizza",
+        "tel": "9498231900",
+        "zipcode": "92603"
+    },
+    {
+        "address": "18068 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66398531844359,
+        "long": -117.82606270721003,
+        "name": "Ameci",
+        "tel": "9898571900",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.650683,
+        "long": -117.839359,
+        "name": "Eureka! Irvine",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "6511 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.654811868318156,
+        "long": -117.78030395507814,
+        "name": "Sinofusion Asian Restaurant & Bar",
+        "tel": "9497253368",
+        "zipcode": "92603"
+    },
+    {
+        "address": "6715 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.655160160681895,
+        "long": -117.77795970439911,
+        "name": "Thai Bamboo Bistro",
+        "tel": "9495094771",
+        "zipcode": "92603"
+    },
+    {
+        "address": "?",
+        "city": "?",
+        "lat": 33.659034472773214,
+        "long": -117.7675642173306,
+        "name": "Boar's Nest",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "4199 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.650595741207475,
+        "long": -117.83802574832197,
+        "name": "Ray's Pizza",
+        "tel": "9498545044",
+        "zipcode": "92612"
+    },
+    {
+        "address": "2005 Los Trancos Dr",
+        "city": "Irvine",
+        "lat": 33.64351137,
+        "long": -117.84126871000001,
+        "name": "Java City Kiosk",
+        "tel": "9498245779",
+        "zipcode": "92617"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.658012870594746,
+        "long": -117.76670532238384,
+        "name": "Blizzard Cafe/Patio",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6622 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.6689255105912,
+        "long": -117.76485443115234,
+        "name": "Rubino's Pizza",
+        "tel": "9497880770",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4547 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.649788,
+        "long": -117.83083140850067,
+        "name": "Del Taco",
+        "tel": "9498547102",
+        "zipcode": "92612"
+    },
+    {
+        "address": "6630 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.66866805263933,
+        "long": -117.7645981498586,
+        "name": "The Flame Broiler",
+        "tel": "9494500114",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4143 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.650499,
+        "long": -117.839045,
+        "name": "Gen Grill",
+        "tel": "9495090531",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4249 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.64983031180659,
+        "long": -117.83886713846799,
+        "name": "DelSushi",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.650564975255755,
+        "long": -117.8393193125224,
+        "name": "Eureka! Irvine",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "6711 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.655360816358936,
+        "long": -117.77809394443922,
+        "name": "Pick Up Stix",
+        "tel": "9495096629",
+        "zipcode": "92603"
+    },
+    {
+        "address": "5305 University Dr",
+        "city": "Irvine",
+        "lat": 33.658819841875946,
+        "long": -117.80354831815912,
+        "name": "Korea House BBQ",
+        "tel": "9495529998",
+        "zipcode": "92612"
+    },
+    {
+        "address": "6626 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.66883314664068,
+        "long": -117.76478138320645,
+        "name": "Sanaya",
+        "tel": "9493873700",
+        "zipcode": "92618"
+    },
+    {
+        "address": "Alton",
+        "city": "Irvine",
+        "lat": 33.65592134683955,
+        "long": -117.75367253315132,
+        "name": "All the Perks",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.653638,
+        "long": -117.753845,
+        "name": "Ice Cafe",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "21117 Newport Coast Dr Newport Coast",
+        "city": "Newport Coast",
+        "lat": 33.607834,
+        "long": -117.826749,
+        "name": "Newport Coast First Class Pizza",
+        "tel": "9496445888",
+        "zipcode": "92657"
+    },
+    {
+        "address": "6511 Quail Hill Pkwy",
+        "city": "Irvine",
+        "lat": 33.65480019249874,
+        "long": -117.78021241394123,
+        "name": "Crystal Jade",
+        "tel": "9497253368",
+        "zipcode": "92603"
+    },
+    {
+        "address": "4237 Campus Dr #B157",
+        "city": "Irvine",
+        "lat": 33.650455,
+        "long": -117.83873,
+        "name": "California Gogi Korean Grill",
+        "tel": "9498540000",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4255 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.650676977053514,
+        "long": -117.83870115024287,
+        "name": "Yushoken Izakaya & Ramen",
+        "tel": "9493966647",
+        "zipcode": "92612"
+    },
+    {
+        "address": "11 Strawberry Farm Rd",
+        "city": "Irvine",
+        "lat": 33.649978295280995,
+        "long": -117.79636923617676,
+        "name": "Farmhouse Grill at Strawberry Farms",
+        "tel": "9495512560",
+        "zipcode": "92612"
+    },
+    {
+        "address": "West Food Court, Student Center",
+        "city": "Irvine",
+        "lat": 33.64917587070079,
+        "long": -117.84257607736123,
+        "name": "SUBWAY",
+        "tel": "9498240656",
+        "zipcode": "92612"
+    },
+    {
+        "address": "5221 California Ave",
+        "city": "Irvine",
+        "lat": 33.637556,
+        "long": -117.853282,
+        "name": "Crystal Cove Cafe",
+        "tel": "9492313100",
+        "zipcode": "92617"
+    },
+    {
+        "address": "A311 Uci",
+        "city": "Irvine",
+        "lat": 33.64817171739269,
+        "long": -117.84287452697754,
+        "name": "Wahoo's Fish Taco",
+        "tel": "9496313433",
+        "zipcode": "92697"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.648708,
+        "long": -117.842365,
+        "name": "Organic Greens ToGo",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "?",
+        "lat": 33.67694115681831,
+        "long": -117.74525455822523,
+        "name": "Crepes Bonaparte",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "4501 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.648736,
+        "long": -117.83204417,
+        "name": "Koba Tofu Grill",
+        "tel": "9497250516",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4237 Campus Dr Ste B158",
+        "city": "Irvine",
+        "lat": 33.65041360290624,
+        "long": -117.83850654316603,
+        "name": "Salad Republic",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "Student Center",
+        "city": "Irvine",
+        "lat": 33.649180365604686,
+        "long": -117.84256463013496,
+        "name": "Panda Express",
+        "tel": "9498240659",
+        "zipcode": "92617"
+    },
+    {
+        "address": "6632 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.6687,
+        "long": -117.764585,
+        "name": "Bon Appetit Salads",
+        "tel": "9497270888",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6634 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.66867166651724,
+        "long": -117.76462678008119,
+        "name": "Sushi Boy",
+        "tel": "9497880828",
+        "zipcode": "92618"
+    },
+    {
+        "address": "18092 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.663661629398966,
+        "long": -117.82598465681076,
+        "name": "Tacos & Co.",
+        "tel": "9496538081",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4535 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.649879,
+        "long": -117.83188,
+        "name": "MJ Cafe",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "6624 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.66873757,
+        "long": -117.7648686,
+        "name": "Quiznos",
+        "tel": "9493410115",
+        "zipcode": "92618"
+    },
+    {
+        "address": "Laguna Fwy & Pacifica & Gateway",
+        "city": "Irvine",
+        "lat": 33.657443052428356,
+        "long": -117.7549552385778,
+        "name": "Doubletree Restuarant Bar",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "21133 Newport Coast Dr",
+        "city": "Newport Coast",
+        "lat": 33.60818762169902,
+        "long": -117.8266637399185,
+        "name": "Pomodoro Cusina Italiana",
+        "tel": "9497591303",
+        "zipcode": "92657"
+    },
+    {
+        "address": "7703 E Coast Hwy",
+        "city": "Newport Coast",
+        "lat": 33.581630950000005,
+        "long": -117.8397716,
+        "name": "Coast Contest @ Ruby's Shake Shack",
+        "tel": "?",
+        "zipcode": "92657"
+    },
+    {
+        "address": "276 White Cap Ln",
+        "city": "Newport Coast",
+        "lat": 33.609807,
+        "long": -117.831338,
+        "name": "Olmstead Lana",
+        "tel": "9497189268",
+        "zipcode": "92657"
+    },
+    {
+        "address": "276 White Cap Ln",
+        "city": "Newport Coast",
+        "lat": 33.609807,
+        "long": -117.831338,
+        "name": "Quinn Ninia",
+        "tel": "9497189268",
+        "zipcode": "92657"
+    },
+    {
+        "address": "147 Tapestry",
+        "city": "Irvine",
+        "lat": 33.64321,
+        "long": -117.77186,
+        "name": "Marie Callendar's",
+        "tel": "4782737879",
+        "zipcode": "92603"
+    },
+    {
+        "address": "15800 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.65683462352041,
+        "long": -117.76165723800659,
+        "name": "Guckenheimer Cafe",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "15955 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.657808,
+        "long": -117.762195,
+        "name": "California Dining Services",
+        "tel": "9497534040",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4517 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.648567,
+        "long": -117.831868,
+        "name": "Aomatsu Sushi Restaurant",
+        "tel": "9493333888",
+        "zipcode": "92612"
+    },
+    {
+        "address": "18040 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.6651,
+        "long": -117.827024,
+        "name": "Alan Catering",
+        "tel": "9495521000",
+        "zipcode": "92612"
+    },
+    {
+        "address": "19171 Edgehill Dr",
+        "city": "Irvine",
+        "lat": 33.638691,
+        "long": -117.818231,
+        "name": "Cas Enterprises",
+        "tel": "9493872623",
+        "zipcode": "92603"
+    },
+    {
+        "address": "16277 Laguna Canyon Rd",
+        "city": "Irvine",
+        "lat": 33.658108,
+        "long": -117.768456,
+        "name": "Orient Express",
+        "tel": "9497538870",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4143 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.650068,
+        "long": -117.840889,
+        "name": "Curry Pod",
+        "tel": "9498541422",
+        "zipcode": "92612"
+    },
+    {
+        "address": "5321 University Dr",
+        "city": "Irvine",
+        "lat": 33.658198,
+        "long": -117.803217,
+        "name": "Joe's Place Catering",
+        "tel": "9497861998",
+        "zipcode": "92612"
+    },
+    {
+        "address": "36 Gillman St",
+        "city": "Irvine",
+        "lat": 33.663388,
+        "long": -117.822874,
+        "name": "Asplund Harold and Carolyn",
+        "tel": "9497868043",
+        "zipcode": "92612"
+    },
+    {
+        "address": "801 E Peltason Dr",
+        "city": "Irvine",
+        "lat": 33.642846,
+        "long": -117.84919,
+        "name": "UCI University Club",
+        "tel": "9498247960",
+        "zipcode": "?"
+    },
+    {
+        "address": "6 Goddard",
+        "city": "Irvine",
+        "lat": 33.632689,
+        "long": -117.742201,
+        "name": "Halo Brand",
+        "tel": "9495512588",
+        "zipcode": "92618"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.649272236266704,
+        "long": -117.84237575079781,
+        "name": "UCI Catering",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "605 Saint Vincent",
+        "city": "Irvine",
+        "lat": 33.66494,
+        "long": -117.79189,
+        "name": "Nutrisource International",
+        "tel": "7143291076",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4517 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.648701,
+        "long": -117.832001,
+        "name": "Jimmy Z Grill",
+        "tel": "9497376700",
+        "zipcode": "92612"
+    },
+    {
+        "address": "5325 University Dr",
+        "city": "Irvine",
+        "lat": 33.658403,
+        "long": -117.803105,
+        "name": "Jitters Cafe",
+        "tel": "9496539239",
+        "zipcode": "92612"
+    },
+    {
+        "address": "Phoenix Food Court",
+        "city": "Irvine",
+        "lat": 33.645262,
+        "long": -117.840961,
+        "name": "Tortilla Fresca",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.655061,
+        "long": -117.768985,
+        "name": "A Bite Truck",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.6303,
+        "long": -117.828015,
+        "name": "Food Trucks at Vista Verde",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.648091,
+        "long": -117.841473,
+        "name": "Fluff Ice",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "902 W McFadden Ave",
+        "city": "Santa Ana",
+        "lat": 33.644171290174555,
+        "long": -117.83205577355727,
+        "name": "Soho Taco",
+        "tel": "7148056218",
+        "zipcode": "92707"
+    },
+    {
+        "address": "Vista Verde School",
+        "city": "Irvine",
+        "lat": 33.630325,
+        "long": -117.82805,
+        "name": "Seabirds Food Truck",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.658391,
+        "long": -117.767441,
+        "name": "Blizzard Food Truck Rush",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "Vista Verde School",
+        "city": "Irvine",
+        "lat": 33.630405,
+        "long": -117.827893,
+        "name": "Waff-N-Roll",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "West Peltason and Academy Way",
+        "city": "Irvine",
+        "lat": 33.64595880527426,
+        "long": -117.84924396454024,
+        "name": "Caf\u00e9 Med",
+        "tel": "?",
+        "zipcode": "92617"
+    },
+    {
+        "address": "18040 Culver Dr #A",
+        "city": "Irvine",
+        "lat": 33.666496753865175,
+        "long": -117.82590150833128,
+        "name": "Hen House Grill",
+        "tel": "9497862000",
+        "zipcode": "92612"
+    },
+    {
+        "address": "Broadway 211-217",
+        "city": "Laguna Beach",
+        "lat": 33.65868268963408,
+        "long": -117.82743649335546,
+        "name": "The Food Village",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.63724942640592,
+        "long": -117.84813934429229,
+        "name": "Broadcom Elements Cafe",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "6636 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.668545755391115,
+        "long": -117.76439201212496,
+        "name": "Ph\u00f3 Kobe",
+        "tel": "9493876608",
+        "zipcode": "92618"
+    },
+    {
+        "address": "73 Fortune Dr",
+        "city": "Irvine",
+        "lat": 33.65349659878847,
+        "long": -117.75143923016549,
+        "name": "Crepe Maker",
+        "tel": "9495859898",
+        "zipcode": "92618"
+    },
+    {
+        "address": "15361 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.65505656850807,
+        "long": -117.75556223001004,
+        "name": "Little Sheep Mongolian Hot Pot",
+        "tel": "9496510201",
+        "zipcode": "92604"
+    },
+    {
+        "address": "4237 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.65051956841898,
+        "long": -117.83826614590228,
+        "name": "Wetzel's Pretzels",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.6469592612686,
+        "long": -117.83961694546579,
+        "name": "C3 Convenience To The Third Power",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4293 Pereira Dr",
+        "city": "Irvine",
+        "lat": 33.646932,
+        "long": -117.838103,
+        "name": "Au Bon Pain",
+        "tel": "9498240492",
+        "zipcode": "92697"
+    },
+    {
+        "address": "18032 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66452780332158,
+        "long": -117.82681882381439,
+        "name": "Carl's Jr.",
+        "tel": "9497860612",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.64545084265087,
+        "long": -117.84086470906065,
+        "name": "Einstein Bros Bagels",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "Aldrich Park",
+        "city": "Irvine",
+        "lat": 33.645616026459194,
+        "long": -117.84060714387981,
+        "name": "Einstein",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.64046877066489,
+        "long": -117.82981769822331,
+        "name": "MJ's Cafe Express",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "Uci",
+        "city": "Irvine",
+        "lat": 33.648636142726545,
+        "long": -117.84225225448608,
+        "name": "Bene's Pasta @ Student Center Food Court",
+        "tel": "?",
+        "zipcode": "92697"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.645229,
+        "long": -117.749249,
+        "name": "illy Cafe",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "1530 Concordia",
+        "city": "Irvine",
+        "lat": 33.65407025795221,
+        "long": -117.81190066063228,
+        "name": "Emendare",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "Fed Ex",
+        "city": "Irvine",
+        "lat": 33.66024346347916,
+        "long": -117.76369915861213,
+        "name": "AVI / FED EX Hub",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "5001 Newport Coast Dr",
+        "city": "Irvine",
+        "lat": 33.631270580793355,
+        "long": -117.83369281385977,
+        "name": "Mariners Global Cafe & Bookstore",
+        "tel": "9497698300",
+        "zipcode": "92603"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.6446350434768,
+        "long": -117.85165350153407,
+        "name": "Med Ed Cafe",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.6378373714994,
+        "long": -117.85168784149842,
+        "name": "Broadcom Connections Cafe",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "20 Pacifica",
+        "city": "Irvine",
+        "lat": 33.650851059846076,
+        "long": -117.74996280670166,
+        "name": "Peet's Coffee",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "1 Federation Way",
+        "city": "Irvine",
+        "lat": 33.63300547987174,
+        "long": -117.8259024314875,
+        "name": "JCafe At The JCC",
+        "tel": "?",
+        "zipcode": "92603"
+    },
+    {
+        "address": "Arts Plaza",
+        "city": "Irvine",
+        "lat": 33.649767973383476,
+        "long": -117.84487123171522,
+        "name": "Cyber A Cafe",
+        "tel": "9498249848",
+        "zipcode": "92614"
+    },
+    {
+        "address": "Verano Place",
+        "city": "Irvine",
+        "lat": 33.64977933287297,
+        "long": -117.83832550048828,
+        "name": "Cyber Cafe",
+        "tel": "?",
+        "zipcode": "92617"
+    },
+    {
+        "address": "21117 Newport Coast Dr",
+        "city": "Newport Coast",
+        "lat": 33.609516,
+        "long": -117.832251,
+        "name": "First Class Pizza",
+        "tel": "9496445888",
+        "zipcode": "92657"
+    },
+    {
+        "address": "23000 Newport Coast Dr",
+        "city": "Newport Coast",
+        "lat": 33.58401560996463,
+        "long": -117.84392684501694,
+        "name": "Pizza Hut",
+        "tel": "?",
+        "zipcode": "92657"
+    },
+    {
+        "address": "?",
+        "city": "Newport Coast",
+        "lat": 33.607875,
+        "long": -117.826762,
+        "name": "First Class Pizza",
+        "tel": "?",
+        "zipcode": "92657"
+    },
+    {
+        "address": "19199 Harvard Ave",
+        "city": "Irvine",
+        "lat": 33.64722550134971,
+        "long": -117.8243111149091,
+        "name": "First Classs Pizza",
+        "tel": "9492519500",
+        "zipcode": "92612"
+    },
+    {
+        "address": "531 E Peltason Dr",
+        "city": "Irvine",
+        "lat": 33.642549,
+        "long": -117.837178,
+        "name": "Uci Dinning-Catering",
+        "tel": "9498248080",
+        "zipcode": "92617"
+    },
+    {
+        "address": "15635 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.65548,
+        "long": -117.7536,
+        "name": "Pizza Hut",
+        "tel": "9497279091",
+        "zipcode": "92618"
+    },
+    {
+        "address": "Student Center",
+        "city": "Irvine",
+        "lat": 33.648649,
+        "long": -117.84227995,
+        "name": "Topio's Pizza",
+        "tel": "?",
+        "zipcode": "92697"
+    },
+    {
+        "address": "4237 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.648853,
+        "long": -117.839096,
+        "name": "Z Pizza",
+        "tel": "9497259000",
+        "zipcode": "92612"
+    },
+    {
+        "address": "15354 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.65802832668216,
+        "long": -117.7667339522798,
+        "name": "Arriba! Baja Grill",
+        "tel": "9497880944",
+        "zipcode": "92618"
+    },
+    {
+        "address": "16277 Laguna Canyon Rd",
+        "city": "Irvine",
+        "lat": 33.657513311155185,
+        "long": -117.76972861487376,
+        "name": "Tummy Stuffer",
+        "tel": "9497530227",
+        "zipcode": "92618"
+    },
+    {
+        "address": "128 C Student Center",
+        "city": "Irvine",
+        "lat": 33.64599245736254,
+        "long": -117.84443020820618,
+        "name": "Subway",
+        "tel": "?",
+        "zipcode": "92617"
+    },
+    {
+        "address": "5323 University Dr",
+        "city": "Irvine",
+        "lat": 33.65920701666667,
+        "long": -117.80316174030304,
+        "name": "SUBWAY",
+        "tel": "9495511166",
+        "zipcode": "92612"
+    },
+    {
+        "address": "23 Pasteur",
+        "city": "Irvine",
+        "lat": 33.65341884010693,
+        "long": -117.76719203001089,
+        "name": "Corner Cafe",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4139 Campus Dr",
+        "city": "Irvine",
+        "lat": 33.647896,
+        "long": -117.836696,
+        "name": "Chinatown Restaurant",
+        "tel": "9498562211",
+        "zipcode": "92612"
+    },
+    {
+        "address": "21133 Newport Coast Dr",
+        "city": "Newport Coast",
+        "lat": 33.608150283181864,
+        "long": -117.8269100189209,
+        "name": "Pasta Pomodoro - Newport Coast",
+        "tel": "9497591303",
+        "zipcode": "92657"
+    },
+    {
+        "address": "22701 Pelican Hill Rd S",
+        "city": "Newport Coast",
+        "lat": 33.58800442136356,
+        "long": -117.8441443405688,
+        "name": "Andrea Ristorante",
+        "tel": "?",
+        "zipcode": "92657"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.654475,
+        "long": -117.778583,
+        "name": "Wraps Xpress",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "6602 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.66878103,
+        "long": -117.764796,
+        "name": "Chef Yen's",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6500 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.66924695854833,
+        "long": -117.76541233062744,
+        "name": "Carl's Jr.",
+        "tel": "9495859340",
+        "zipcode": "92618"
+    },
+    {
+        "address": "2600 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.665111,
+        "long": -117.830827,
+        "name": "Michelson Cafe",
+        "tel": "9494744353",
+        "zipcode": "92612"
+    },
+    {
+        "address": "7946 E Coast Hwy",
+        "city": "Newport Coast",
+        "lat": 33.576352,
+        "long": -117.840343,
+        "name": "Modo Mio Restaurant Cucina Restica",
+        "tel": "9494979770",
+        "zipcode": "92657"
+    },
+    {
+        "address": "7700 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.65913,
+        "long": -117.750232,
+        "name": "Spectrum Cafe 77",
+        "tel": "9497537700",
+        "zipcode": "92618"
+    },
+    {
+        "address": "7700 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.65928,
+        "long": -117.75014,
+        "name": "Wienerschnitzel",
+        "tel": "9498922699",
+        "zipcode": "92618"
+    },
+    {
+        "address": "8685 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.660741,
+        "long": -117.751664,
+        "name": "Phillys Sandwich and Grill",
+        "tel": "9497279292",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6636 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.668658,
+        "long": -117.763299,
+        "name": "Wok and Grill",
+        "tel": "9494539017",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6638 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.668746,
+        "long": -117.762586,
+        "name": "The Cravery",
+        "tel": "9497273663",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6620 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.66905051827284,
+        "long": -117.76520848274231,
+        "name": "Tacos & Co",
+        "tel": "9494538081",
+        "zipcode": "92618"
+    },
+    {
+        "address": "90 Pacifica",
+        "city": "Irvine",
+        "lat": 33.65779377438599,
+        "long": -117.7556194932499,
+        "name": "90 Pacifica",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "3900 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.6661752956302,
+        "long": -117.82809019088745,
+        "name": "Kosher Catering By Nina",
+        "tel": "9496333628",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Costa Mesa",
+        "lat": 33.66461555477967,
+        "long": -117.74999615852087,
+        "name": "Gourmet Feeding Frenzy",
+        "tel": "?",
+        "zipcode": "92626"
+    },
+    {
+        "address": "15505 Sand Canyon Ave",
+        "city": "Irvine",
+        "lat": 33.66977982057944,
+        "long": -117.76941369088301,
+        "name": "Irvine Sand Canyon Cafe",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6622 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.668598,
+        "long": -117.763,
+        "name": "First Class Pizza",
+        "tel": "9495859211",
+        "zipcode": "92618"
+    },
+    {
+        "address": "6638 Irvine Center Dr",
+        "city": "Irvine",
+        "lat": 33.668655,
+        "long": -117.764496,
+        "name": "Ah Lien Hot Pot",
+        "tel": "?",
+        "zipcode": "92618"
+    },
+    {
+        "address": "2010 Main St Ste 165",
+        "city": "Irvine",
+        "lat": 33.683629736413124,
+        "long": -117.8524261491659,
+        "name": "Mick's Karma Bar",
+        "tel": "9498516316",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2895 Park Ave",
+        "city": "Tustin",
+        "lat": 33.694923,
+        "long": -117.827039,
+        "name": "In-N-Out Burger",
+        "tel": "8007861000",
+        "zipcode": "92782"
+    },
+    {
+        "address": "?",
+        "city": "Orange County",
+        "lat": 33.69981356309736,
+        "long": -117.83550727845167,
+        "name": "Seabirds Truck",
+        "tel": "9494632473",
+        "zipcode": "?"
+    },
+    {
+        "address": "3988 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.684217512472216,
+        "long": -117.80916720628738,
+        "name": "California Fish Grill",
+        "tel": "9496543838",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2803 Main St., Space A",
+        "city": "Irvine",
+        "lat": 33.680485453873956,
+        "long": -117.83811069557416,
+        "name": "Boudin SF Irvine",
+        "tel": "9492229111",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2961 Michelson Drive, Suite A, Building 10",
+        "city": "Irvine",
+        "lat": 33.67176935232197,
+        "long": -117.84571118393615,
+        "name": "Ruth's Chris Steak House",
+        "tel": "9492528848",
+        "zipcode": "92612"
+    },
+    {
+        "address": "2550 Park Ave",
+        "city": "Tustin",
+        "lat": 33.698506,
+        "long": -117.8265353,
+        "name": "Lucille's Smokehouse Bar-B-Que",
+        "tel": "7142591227",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2700 Alton Pkwy, #123",
+        "city": "Irvine",
+        "lat": 33.68803352,
+        "long": -117.8340887,
+        "name": "85C Bakery Cafe - Irvine",
+        "tel": "9495538585",
+        "zipcode": "92606"
+    },
+    {
+        "address": "3960 S Main St Ste C",
+        "city": "Santa Ana",
+        "lat": 33.69455,
+        "long": -117.86864938,
+        "name": "Nate's Korner",
+        "tel": "7145455772",
+        "zipcode": "92707"
+    },
+    {
+        "address": "4251 Martingale Way",
+        "city": "Newport Beach",
+        "lat": 33.665419,
+        "long": -117.865601,
+        "name": "Il Barone",
+        "tel": "9499552755",
+        "zipcode": "92660"
+    },
+    {
+        "address": "3321 Hyland Ave",
+        "city": "Costa Mesa",
+        "lat": 33.669354107600384,
+        "long": -117.85531997680664,
+        "name": "ARC Restaurant",
+        "tel": "9495005561",
+        "zipcode": "92626"
+    },
+    {
+        "address": "2646 DuPont Dr",
+        "city": "Irvine",
+        "lat": 33.66848403968304,
+        "long": -117.85236319281485,
+        "name": "The Melting Pot",
+        "tel": "9499553242",
+        "zipcode": "92612"
+    },
+    {
+        "address": "18051 Von Karman Ave",
+        "city": "Irvine",
+        "lat": 33.679740717357994,
+        "long": -117.85285539643392,
+        "name": "Il Fornaio Irvine",
+        "tel": "9492611444",
+        "zipcode": "92612"
+    },
+    {
+        "address": "3041 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.6735495549403,
+        "long": -117.84558667292741,
+        "name": "Panini Cafe",
+        "tel": "9492609800",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4250 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.68116028055064,
+        "long": -117.80474480453407,
+        "name": "Pho B\u00e0 C\u00f4",
+        "tel": "9498578808",
+        "zipcode": "92604"
+    },
+    {
+        "address": "15333 Culver Dr Ste 100",
+        "city": "Irvine",
+        "lat": 33.69687304827206,
+        "long": -117.79814972047308,
+        "name": "All That Barbecue",
+        "tel": "9493368965",
+        "zipcode": "92604"
+    },
+    {
+        "address": "2427 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69769927050938,
+        "long": -117.82814383506775,
+        "name": "Five Guys",
+        "tel": "7142590124",
+        "zipcode": "92782"
+    },
+    {
+        "address": "124 Mac Arthur Blvd",
+        "city": "Santa Ana",
+        "lat": 33.69962961666667,
+        "long": -117.86923785,
+        "name": "Clemente Seafood",
+        "tel": "?",
+        "zipcode": "92707"
+    },
+    {
+        "address": "4250 Birch St",
+        "city": "Newport Beach",
+        "lat": 33.66688222296474,
+        "long": -117.86693986846186,
+        "name": "Benihana",
+        "tel": "9499550822",
+        "zipcode": "92660"
+    },
+    {
+        "address": "5365 Alton Pkwy #D",
+        "city": "Irvine",
+        "lat": 33.67148813175043,
+        "long": -117.78921961784363,
+        "name": "Chronic Tacos",
+        "tel": "9496538226",
+        "zipcode": "92604"
+    },
+    {
+        "address": "3972 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.684706398277235,
+        "long": -117.8107271193728,
+        "name": "Urban Plates",
+        "tel": "9493872600",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2647 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69695946628539,
+        "long": -117.82731628747975,
+        "name": "The Winery Restaurant",
+        "tel": "7142587600",
+        "zipcode": "92782"
+    },
+    {
+        "address": "4341 MacArthur Blvd #B",
+        "city": "Newport Beach",
+        "lat": 33.667063485475495,
+        "long": -117.86471366732412,
+        "name": "Fuji Grill",
+        "tel": "9498631858",
+        "zipcode": "92660"
+    },
+    {
+        "address": "5623 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.6697335035297,
+        "long": -117.78637873920292,
+        "name": "Maizuru",
+        "tel": "9495516802",
+        "zipcode": "92618"
+    },
+    {
+        "address": "2981 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.67280002676007,
+        "long": -117.8468172252452,
+        "name": "The Counter",
+        "tel": "9495967227",
+        "zipcode": "92612"
+    },
+    {
+        "address": "3121 S Main St",
+        "city": "Santa Ana",
+        "lat": 33.705295,
+        "long": -117.867655,
+        "name": "Taqueria Zamora",
+        "tel": "7145570907",
+        "zipcode": "92707"
+    },
+    {
+        "address": "?",
+        "city": "Orange County",
+        "lat": 33.684026200089995,
+        "long": -117.85729089228164,
+        "name": "Dos Chinos Truck",
+        "tel": "7147949091",
+        "zipcode": "92626"
+    },
+    {
+        "address": "17655 Harvard Ave Ste H",
+        "city": "Irvine",
+        "lat": 33.676282796213975,
+        "long": -117.83304691314697,
+        "name": "Rubio's",
+        "tel": "9492611016",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2889 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69510172496676,
+        "long": -117.82653987407684,
+        "name": "Chick-fil-A",
+        "tel": "7142581400",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2991 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.673702460663705,
+        "long": -117.84597516059875,
+        "name": "Houston's Restaurant",
+        "tel": "9498330977",
+        "zipcode": "92612"
+    },
+    {
+        "address": "5365 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.67162965850424,
+        "long": -117.789117958466,
+        "name": "MOOYAH Burgers, Shakes, & Fries",
+        "tel": "9493333758",
+        "zipcode": "92604"
+    },
+    {
+        "address": "4647 MacArthur Blvd",
+        "city": "Newport Beach",
+        "lat": 33.6702023662181,
+        "long": -117.86523342132568,
+        "name": "Bosscat Kitchen and Libations",
+        "tel": "9493330917",
+        "zipcode": "92660"
+    },
+    {
+        "address": "19100 Von Karman Ave",
+        "city": "Irvine",
+        "lat": 33.670777231316244,
+        "long": -117.85762855786088,
+        "name": "Bistango",
+        "tel": "9497525222",
+        "zipcode": "92612"
+    },
+    {
+        "address": "17575 Harvard Ave #A",
+        "city": "Irvine",
+        "lat": 33.676854209531804,
+        "long": -117.83197402954102,
+        "name": "Corner Bakery Cafe",
+        "tel": "9493990999",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2200 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.69989611,
+        "long": -117.8356808,
+        "name": "The Habit Burger Grill",
+        "tel": "9499559467",
+        "zipcode": "92606"
+    },
+    {
+        "address": "3972 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.68511719278743,
+        "long": -117.81069277171059,
+        "name": "The Veggie Grill",
+        "tel": "9496810173",
+        "zipcode": "92606"
+    },
+    {
+        "address": "3966 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.68535901042298,
+        "long": -117.8112938548702,
+        "name": "Chipotle Mexican Grill",
+        "tel": "9493908276",
+        "zipcode": "92606"
+    },
+    {
+        "address": "3965 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.682369972714106,
+        "long": -117.81335469645445,
+        "name": "Luna Grill",
+        "tel": "9496545862",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2695 Park Avenue",
+        "city": "Tustin",
+        "lat": 33.695547,
+        "long": -117.827909,
+        "name": "Pei Wei",
+        "tel": "7142591125",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2401 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69830401,
+        "long": -117.8276043,
+        "name": "RA Sushi Bar Restaurant",
+        "tel": "7145661700",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2700 Alton Pkwy # A-145",
+        "city": "Irvine",
+        "lat": 33.68874588724238,
+        "long": -117.83411979675293,
+        "name": "Ajisen Ramen",
+        "tel": "9498333288",
+        "zipcode": "92606"
+    },
+    {
+        "address": "18400 Von Karman Ave #150",
+        "city": "Irvine",
+        "lat": 33.67718025711532,
+        "long": -117.85149897161439,
+        "name": "Specialty\u2019s Caf\u00e9 & Bakery",
+        "tel": "9493512888",
+        "zipcode": "92612"
+    },
+    {
+        "address": "3755 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.68257395986105,
+        "long": -117.81403018948687,
+        "name": "Olive Garden",
+        "tel": "9492638692",
+        "zipcode": "92606"
+    },
+    {
+        "address": "6200 Scholarship",
+        "city": "Irvine",
+        "lat": 33.665994,
+        "long": -117.85269,
+        "name": "Fukada 2 Go",
+        "tel": "9497560810",
+        "zipcode": "92612"
+    },
+    {
+        "address": "2710 Alton Pkwy Ste 213",
+        "city": "Irvine",
+        "lat": 33.68782869744058,
+        "long": -117.83411065746107,
+        "name": "SWSH Shabu Shabu",
+        "tel": "9494740888",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2750 Alton Pkwy #121",
+        "city": "Irvine",
+        "lat": 33.688274309159915,
+        "long": -117.83317193899103,
+        "name": "Pho Saigon Pearl",
+        "tel": "9493360336",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2981 Michelson Dr Ste E",
+        "city": "Irvine",
+        "lat": 33.67284163380452,
+        "long": -117.84659973288169,
+        "name": "Mizuki Japanese Cuisine & Sushi",
+        "tel": "9492510555",
+        "zipcode": "92612"
+    },
+    {
+        "address": "16525 Von Karman Ave",
+        "city": "Irvine",
+        "lat": 33.69842897922616,
+        "long": -117.83402055501938,
+        "name": "Jersey Mike's Subs",
+        "tel": "9499552400",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2453 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69745826443413,
+        "long": -117.8289270401001,
+        "name": "Native Foods Caf\u00e9",
+        "tel": "7142590400",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2750 Alton Pkwy Ste 101",
+        "city": "Irvine",
+        "lat": 33.68846022057639,
+        "long": -117.83313274383545,
+        "name": "Bon Epi Patisserie Cafe",
+        "tel": "9492510070",
+        "zipcode": "92606"
+    },
+    {
+        "address": "6060 Scholarship",
+        "city": "Irvine",
+        "lat": 33.66633905602029,
+        "long": -117.85255778510232,
+        "name": "Avocado Cafe",
+        "tel": "9497520523",
+        "zipcode": "92612"
+    },
+    {
+        "address": "100 W MacArthur Blvd",
+        "city": "Santa Ana",
+        "lat": 33.699696833333334,
+        "long": -117.8689295053482,
+        "name": "Little Onion Mexican Restaurant",
+        "tel": "7149791144",
+        "zipcode": "92707"
+    },
+    {
+        "address": "17881 Sky Park Cir",
+        "city": "Irvine",
+        "lat": 33.69139909744263,
+        "long": -117.859081,
+        "name": "Harry's Deli",
+        "tel": "9492612116",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2710 Alton Pkwy Ste 101",
+        "city": "Irvine",
+        "lat": 33.68771184889172,
+        "long": -117.83366419440007,
+        "name": "Tokyo Table",
+        "tel": "9492630000",
+        "zipcode": "92606"
+    },
+    {
+        "address": "1830 Main St",
+        "city": "Irvine",
+        "lat": 33.685374,
+        "long": -117.856173,
+        "name": "Agora Churrascaria",
+        "tel": "9492229910",
+        "zipcode": "92614"
+    },
+    {
+        "address": "4250 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.68142761132865,
+        "long": -117.80518680810928,
+        "name": "Philly's Best",
+        "tel": "9498572448",
+        "zipcode": "92604"
+    },
+    {
+        "address": "15333 Culver Dr Ste 720",
+        "city": "Irvine",
+        "lat": 33.69594879718571,
+        "long": -117.79814399547082,
+        "name": "Sam Woo Seafood Restaurant",
+        "tel": "9498339999",
+        "zipcode": "92604"
+    },
+    {
+        "address": "15361 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.69493388350101,
+        "long": -117.79845887032918,
+        "name": "Little Sheep Mongolian Hot Pot",
+        "tel": "9496510201",
+        "zipcode": "92604"
+    },
+    {
+        "address": "2825 Main St",
+        "city": "Irvine",
+        "lat": 33.680167267067404,
+        "long": -117.8374476480828,
+        "name": "Souplantation",
+        "tel": "9494748682",
+        "zipcode": "92614"
+    },
+    {
+        "address": "5755 E La Palma Ave",
+        "city": "Orange County",
+        "lat": 33.704153118883454,
+        "long": -117.85594022369983,
+        "name": "Chomp Chomp Nation",
+        "tel": "9496371688",
+        "zipcode": "92607"
+    },
+    {
+        "address": "2710 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.687956,
+        "long": -117.8340071439743,
+        "name": "The Balcony Grill & Bar",
+        "tel": "9493870888",
+        "zipcode": "92606"
+    },
+    {
+        "address": "4628 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.677523,
+        "long": -117.800149,
+        "name": "Champagne French Bakery",
+        "tel": "9496536828",
+        "zipcode": "92604"
+    },
+    {
+        "address": "18420 Von Karman Ave",
+        "city": "Irvine",
+        "lat": 33.676282796214,
+        "long": -117.85218715667725,
+        "name": "Prego Ristorante",
+        "tel": "9495531333",
+        "zipcode": "92612"
+    },
+    {
+        "address": "18040 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66469464683413,
+        "long": -117.82540443102499,
+        "name": "Hen House Grill",
+        "tel": "9497862000",
+        "zipcode": "92612"
+    },
+    {
+        "address": "2963 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.67210157977366,
+        "long": -117.84586712511665,
+        "name": "Which Wich? Superior Sandwiches",
+        "tel": "9496609424",
+        "zipcode": "92612"
+    },
+    {
+        "address": "2449 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69715487787947,
+        "long": -117.82863282371632,
+        "name": "Luna Rossa",
+        "tel": "7142590861",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2487 Park Ave",
+        "city": "Tustin",
+        "lat": 33.697509336942716,
+        "long": -117.82762538814333,
+        "name": "Capriotti's Sandwich Shop",
+        "tel": "7142580900",
+        "zipcode": "92782"
+    },
+    {
+        "address": "3850 Barranca Pkwy Ste E",
+        "city": "Irvine",
+        "lat": 33.684212231193875,
+        "long": -117.81181479201437,
+        "name": "Capital Noodle Bar",
+        "tel": "?",
+        "zipcode": "92606"
+    },
+    {
+        "address": "3966 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.685499018751244,
+        "long": -117.81142552044201,
+        "name": "Stonefire Grill",
+        "tel": "9497771177",
+        "zipcode": "92606"
+    },
+    {
+        "address": "?",
+        "city": "Orange County",
+        "lat": 33.685951850417545,
+        "long": -117.85891053672742,
+        "name": "Ragin Cajun",
+        "tel": "?",
+        "zipcode": "92868"
+    },
+    {
+        "address": "4020 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.68308136,
+        "long": -117.8084294,
+        "name": "Islands Restaurant",
+        "tel": "9495521888",
+        "zipcode": "92604"
+    },
+    {
+        "address": "2360 Park Ave",
+        "city": "Tustin",
+        "lat": 33.700092394944875,
+        "long": -117.82845537808065,
+        "name": "Daphne's California Greek",
+        "tel": "7142588867",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2 Hutton Centre Dr",
+        "city": "Santa Ana",
+        "lat": 33.699297373047955,
+        "long": -117.865228729138,
+        "name": "Masala Craft",
+        "tel": "?",
+        "zipcode": "92707"
+    },
+    {
+        "address": "?",
+        "city": "Tustin",
+        "lat": 33.697564,
+        "long": -117.827477,
+        "name": "Kettlebar",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "1818 Main St",
+        "city": "Irvine",
+        "lat": 33.68507189613953,
+        "long": -117.85667851412431,
+        "name": "Makino sushi and seafood buffet",
+        "tel": "9497241204",
+        "zipcode": "92614"
+    },
+    {
+        "address": "136 W MacArthur Blvd",
+        "city": "Santa Ana",
+        "lat": 33.699705752615706,
+        "long": -117.86950368584979,
+        "name": "Ol\u00e9! Spain Delishop",
+        "tel": "7149661087",
+        "zipcode": "92707"
+    },
+    {
+        "address": "3988 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.68408366938573,
+        "long": -117.80922726546272,
+        "name": "Panera Bread",
+        "tel": "9497868800",
+        "zipcode": "92606"
+    },
+    {
+        "address": "3800 Barranca Pkwy Ste N",
+        "city": "Irvine",
+        "lat": 33.68444414305188,
+        "long": -117.81216971537458,
+        "name": "DonerG Turkish and Mediterranean Grill",
+        "tel": "9498612626",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2417 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69807258724748,
+        "long": -117.82835234505191,
+        "name": "Thai Bamboo Bistro",
+        "tel": "7142590688",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2710 Alton Pkwy # A-115",
+        "city": "Irvine",
+        "lat": 33.68790020543213,
+        "long": -117.8339503887955,
+        "name": "CoCo Ichibanya",
+        "tel": "9495531082",
+        "zipcode": "92606"
+    },
+    {
+        "address": "92 Corporate Park Ste J",
+        "city": "Irvine",
+        "lat": 33.692536,
+        "long": -117.82667398452759,
+        "name": "Mr. Sandwich",
+        "tel": "9495531612",
+        "zipcode": "92606"
+    },
+    {
+        "address": "3415 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.67041522458753,
+        "long": -117.8332349019662,
+        "name": "OCDinDinAGoGo @ Irvine Lanes",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4030 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.683300202967004,
+        "long": -117.80781269073486,
+        "name": "Mimi's Cafe",
+        "tel": "9495598840",
+        "zipcode": "92604"
+    },
+    {
+        "address": "3965 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.68239964723653,
+        "long": -117.81334324739856,
+        "name": "MOD Pizza",
+        "tel": "9492657770",
+        "zipcode": "92606"
+    },
+    {
+        "address": "4647 MacArthur Blvd",
+        "city": "Newport Beach",
+        "lat": 33.66753,
+        "long": -117.8684,
+        "name": "Ten Asian Bistro",
+        "tel": "9496601010",
+        "zipcode": "92660"
+    },
+    {
+        "address": "1910 Main St",
+        "city": "Irvine",
+        "lat": 33.684789763152075,
+        "long": -117.85272948400682,
+        "name": "El Torito Grill",
+        "tel": "9499751220",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2700 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.688606625498664,
+        "long": -117.83353254482756,
+        "name": "BCD Tofu House",
+        "tel": "9495336465",
+        "zipcode": "92606"
+    },
+    {
+        "address": "14370 Culver Dr Ste B",
+        "city": "Irvine",
+        "lat": 33.70512253333333,
+        "long": -117.785113,
+        "name": "East Coast Bagel Co",
+        "tel": "9497333414",
+        "zipcode": "92604"
+    },
+    {
+        "address": "92 Corporate Park #H",
+        "city": "Irvine",
+        "lat": 33.692553,
+        "long": -117.826867,
+        "name": "Miyako Japanese Restaurant",
+        "tel": "9497568875",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2222 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.676152,
+        "long": -117.85508,
+        "name": "The Chippy Fish & Chips",
+        "tel": "9498332322",
+        "zipcode": "92612"
+    },
+    {
+        "address": "3745 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.682834,
+        "long": -117.815378,
+        "name": "Chili's Grill & Bar",
+        "tel": "9492508636",
+        "zipcode": "92606"
+    },
+    {
+        "address": "14450 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.703985,
+        "long": -117.785749,
+        "name": "Annapoorna Restaurant",
+        "tel": "9496511144",
+        "zipcode": "92604"
+    },
+    {
+        "address": "18086 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66391165988025,
+        "long": -117.82608389854431,
+        "name": "SUBWAY",
+        "tel": "9497866886",
+        "zipcode": "92612"
+    },
+    {
+        "address": "Macarthur",
+        "city": "Irvine",
+        "lat": 33.68683597521331,
+        "long": -117.85564834061302,
+        "name": "Croutons",
+        "tel": "9492220911",
+        "zipcode": "?"
+    },
+    {
+        "address": "14407 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.70617422089683,
+        "long": -117.78675734996796,
+        "name": "Curry House",
+        "tel": "9496541449",
+        "zipcode": "92604"
+    },
+    {
+        "address": "14474 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.70469889,
+        "long": -117.7869584,
+        "name": "The Habit Burger Grill",
+        "tel": "9495525963",
+        "zipcode": "92604"
+    },
+    {
+        "address": "3972 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.684790737738446,
+        "long": -117.81055538099743,
+        "name": "Barefoot Bowls",
+        "tel": "9495025257",
+        "zipcode": "92606"
+    },
+    {
+        "address": "4451 Jamboree Road, Ste B",
+        "city": "Newport Beach",
+        "lat": 33.66397410698966,
+        "long": -117.8569875650407,
+        "name": "Round Table Pizza",
+        "tel": "9492612222",
+        "zipcode": "92660"
+    },
+    {
+        "address": "?",
+        "city": "Central Coast",
+        "lat": 33.67000154289871,
+        "long": -117.86525734364044,
+        "name": "Ten Asian Bistro and Sushi Bar",
+        "tel": "?",
+        "zipcode": "92660"
+    },
+    {
+        "address": "17145 Von Karman Ave Ste 102",
+        "city": "Irvine",
+        "lat": 33.691408,
+        "long": -117.840958,
+        "name": "Larry's Deli",
+        "tel": "9492631983",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2667 Park Ave",
+        "city": "Tustin",
+        "lat": 33.6964195587715,
+        "long": -117.82787152348327,
+        "name": "Red Robin Gourmet Burgers",
+        "tel": "7142587657",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2030 Main St",
+        "city": "Irvine",
+        "lat": 33.68302047951626,
+        "long": -117.85288973617165,
+        "name": "MJ's Cafe",
+        "tel": "?",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2481 Park Ave",
+        "city": "Tustin",
+        "lat": 33.697642,
+        "long": -117.828066,
+        "name": "It's Boba Time",
+        "tel": "?",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2967 Michelson Dr Ste F",
+        "city": "Irvine",
+        "lat": 33.67256851709282,
+        "long": -117.84660816192627,
+        "name": "Wahoo's Fish Taco",
+        "tel": "9492539532",
+        "zipcode": "92612"
+    },
+    {
+        "address": "92 Corporate Park",
+        "city": "Irvine",
+        "lat": 33.692732,
+        "long": -117.826931,
+        "name": "House of Kabob II",
+        "tel": "9492618005",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2700 Alton Pkwy #125",
+        "city": "Irvine",
+        "lat": 33.688006956020324,
+        "long": -117.83385880663774,
+        "name": "Sandwich Club",
+        "tel": "?",
+        "zipcode": "92606"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.67423852143307,
+        "long": -117.84800198172086,
+        "name": "Food Truck Extravaganza",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4250 Barranca Pkwy #U",
+        "city": "Irvine",
+        "lat": 33.68154829,
+        "long": -117.805308,
+        "name": "Thai Kitchen",
+        "tel": "9498571788",
+        "zipcode": "92604"
+    },
+    {
+        "address": "3800 Barranca Pkwy Ste R",
+        "city": "Irvine",
+        "lat": 33.68442359289916,
+        "long": -117.81203232576829,
+        "name": "The Flame Broiler",
+        "tel": "9497261975",
+        "zipcode": "92606"
+    },
+    {
+        "address": "5663 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.669604121536146,
+        "long": -117.78622627258302,
+        "name": "Mustard Cafe",
+        "tel": "9495598080",
+        "zipcode": "92618"
+    },
+    {
+        "address": "2607 Main St",
+        "city": "Irvine",
+        "lat": 33.68166383347802,
+        "long": -117.84053845977019,
+        "name": "Andrei's Conscious Cuisine & Cocktails",
+        "tel": "9493878887",
+        "zipcode": "92614"
+    },
+    {
+        "address": "3850 Barranca Pkwy Ste B",
+        "city": "Irvine",
+        "lat": 33.68426286432535,
+        "long": -117.81201515206024,
+        "name": "Sagami Japanese Restaurant",
+        "tel": "9498578030",
+        "zipcode": "92606"
+    },
+    {
+        "address": "17655 Harvard Ave",
+        "city": "Irvine",
+        "lat": 33.67619229162966,
+        "long": -117.83264533871294,
+        "name": "zpizza",
+        "tel": "9497979044",
+        "zipcode": "92614"
+    },
+    {
+        "address": "5501 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.66932623077839,
+        "long": -117.78700709151093,
+        "name": "El Pollo Loco",
+        "tel": "9497860445",
+        "zipcode": "92618"
+    },
+    {
+        "address": "2636 DuPont Dr",
+        "city": "Irvine",
+        "lat": 33.6689775152972,
+        "long": -117.85186090814285,
+        "name": "Daily Grill - Irvine",
+        "tel": "9494742223",
+        "zipcode": "92612"
+    },
+    {
+        "address": "2750 Alton Pkwy Ste 131",
+        "city": "Irvine",
+        "lat": 33.68827563668069,
+        "long": -117.83324062587192,
+        "name": "Urban Seoul",
+        "tel": "9495530188",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2740 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.6884489262113,
+        "long": -117.83290291512557,
+        "name": "The Kickin' Crab",
+        "tel": "9498518889",
+        "zipcode": "92606"
+    },
+    {
+        "address": "19530 Jamboree Rd",
+        "city": "Irvine",
+        "lat": 33.65926872736306,
+        "long": -117.86004943001849,
+        "name": "Twenty Eight Restaurant and Lounge",
+        "tel": "9498522828",
+        "zipcode": "92612"
+    },
+    {
+        "address": "1 First American Way",
+        "city": "Santa Ana",
+        "lat": 33.70194743336073,
+        "long": -117.86047865930827,
+        "name": "First American Cafe",
+        "tel": "?",
+        "zipcode": "92707"
+    },
+    {
+        "address": "2409 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69788671921163,
+        "long": -117.82815456390381,
+        "name": "Bluewater Grill",
+        "tel": "7142583474",
+        "zipcode": "92782"
+    },
+    {
+        "address": "2700 Alton Pkwy # A-127",
+        "city": "Irvine",
+        "lat": 33.6881477715733,
+        "long": -117.83376574516296,
+        "name": "Capital Seafood Restaurant",
+        "tel": "9492528188",
+        "zipcode": "92606"
+    },
+    {
+        "address": "16575 Von Karman Ave",
+        "city": "Irvine",
+        "lat": 33.697681,
+        "long": -117.834208,
+        "name": "BB Vietnamese Restaurant",
+        "tel": "9495531958",
+        "zipcode": "?"
+    },
+    {
+        "address": "?",
+        "city": "Newport Beach",
+        "lat": 33.66412007653632,
+        "long": -117.86427300216931,
+        "name": "Cappriotti's Sandwich Shop",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "3850 Barranca Pkwy #D",
+        "city": "Irvine",
+        "lat": 33.684227430528004,
+        "long": -117.81186631318994,
+        "name": "Ha Long Vietnamese Cuisine",
+        "tel": "9496543736",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2730 Alton Pkwy Ste 101",
+        "city": "Irvine",
+        "lat": 33.68886491948083,
+        "long": -117.83371570942431,
+        "name": "Guppy Teahouse",
+        "tel": "9498519788",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2700 Alton Pkwy #133",
+        "city": "Irvine",
+        "lat": 33.688495318564335,
+        "long": -117.83359550767842,
+        "name": "Kula Sushi Bar",
+        "tel": "9495530747",
+        "zipcode": "92606"
+    },
+    {
+        "address": "17941 Sky Park Cir",
+        "city": "Costa Mesa",
+        "lat": 33.68979806666667,
+        "long": -117.86115646362305,
+        "name": "Blackmarket Bakery",
+        "tel": "9498524609",
+        "zipcode": "?"
+    },
+    {
+        "address": "18090 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66378877430822,
+        "long": -117.82599974176436,
+        "name": "Class 302 \u4e09\u5e742\u73ed",
+        "tel": "9495520555",
+        "zipcode": "92612"
+    },
+    {
+        "address": "17917 MacArthur Blvd",
+        "city": "Irvine",
+        "lat": 33.687073334838495,
+        "long": -117.85559683178442,
+        "name": "Jersey Mike's Subs",
+        "tel": "9498332525",
+        "zipcode": "92614"
+    },
+    {
+        "address": "5365 Alton Pkwy #I",
+        "city": "Irvine",
+        "lat": 33.67135866317478,
+        "long": -117.78895676136017,
+        "name": "zpizza",
+        "tel": "9495511555",
+        "zipcode": "92604"
+    },
+    {
+        "address": "2981 Michelson Dr Ste E",
+        "city": "Irvine",
+        "lat": 33.67650103304929,
+        "long": -117.85564834061302,
+        "name": "SUBWAY",
+        "tel": "9495514977",
+        "zipcode": "92612"
+    },
+    {
+        "address": "2010 Main St",
+        "city": "Irvine",
+        "lat": 33.683407334508935,
+        "long": -117.85208523273468,
+        "name": "Specialty\u2019s Caf\u00e9 & Bakery",
+        "tel": "8775022837",
+        "zipcode": "92614"
+    },
+    {
+        "address": "?",
+        "city": "Mission Viejo",
+        "lat": 33.68350849191831,
+        "long": -117.85006240942079,
+        "name": "Mess Hall Canteen",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "5365 Alton Pkwy #B1",
+        "city": "Irvine",
+        "lat": 33.671539,
+        "long": -117.78943,
+        "name": "Yen Sushi & Roll",
+        "tel": "9495513599",
+        "zipcode": "92604"
+    },
+    {
+        "address": "2601 Hotel Ter",
+        "city": "Santa Ana",
+        "lat": 33.71173447654874,
+        "long": -117.8510445356369,
+        "name": "Spoons Grill & Bar",
+        "tel": "7145560700",
+        "zipcode": "92705"
+    },
+    {
+        "address": "W Sunflower",
+        "city": "Santa Ana",
+        "lat": 33.693566369028304,
+        "long": -117.86879539489746,
+        "name": "Manassero Farms Fruit & Veggie Stand",
+        "tel": "?",
+        "zipcode": "92704"
+    },
+    {
+        "address": "18512 MacArthur Blvd",
+        "city": "Irvine",
+        "lat": 33.67897019140737,
+        "long": -117.85910993814468,
+        "name": "El Torito",
+        "tel": "9498338230",
+        "zipcode": "92612"
+    },
+    {
+        "address": "3831 Alton Pkwy #B",
+        "city": "Irvine",
+        "lat": 33.683238,
+        "long": -117.813205,
+        "name": "Pho So 1",
+        "tel": "9492518829",
+        "zipcode": "92606"
+    },
+    {
+        "address": "1660 Dove St",
+        "city": "Newport Beach",
+        "lat": 33.66546096,
+        "long": -117.86606731666667,
+        "name": "Arnies Manhattan Deli",
+        "tel": "9492528646",
+        "zipcode": "92660"
+    },
+    {
+        "address": "5633 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.66971127014331,
+        "long": -117.7864408493042,
+        "name": "Baja Fresh Mexican Grill",
+        "tel": "9495512252",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4820 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.6761019966781,
+        "long": -117.79816746711731,
+        "name": "Del Taco",
+        "tel": "9495518792",
+        "zipcode": "92604"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.69568,
+        "long": -117.799276,
+        "name": "Popcorn Chicken",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "4250 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.68124682261094,
+        "long": -117.80510902404785,
+        "name": "Las Fajitas Mexican Grill",
+        "tel": "9496530707",
+        "zipcode": "92604"
+    },
+    {
+        "address": "17929 MacArthur Blvd",
+        "city": "Irvine",
+        "lat": 33.68677556634087,
+        "long": -117.85573418862835,
+        "name": "The Flame Broiler",
+        "tel": "9497527770",
+        "zipcode": "92614"
+    },
+    {
+        "address": "1340 Reynolds Ave",
+        "city": "Irvine",
+        "lat": 33.69632463419696,
+        "long": -117.85572230815887,
+        "name": "Reynolds Sandwich",
+        "tel": "9492501011",
+        "zipcode": "92614"
+    },
+    {
+        "address": "4501 Jamboree Rd",
+        "city": "Newport Beach",
+        "lat": 33.66373313400572,
+        "long": -117.85733667748165,
+        "name": "Wienerschnitzel",
+        "tel": "9497529626",
+        "zipcode": "92660"
+    },
+    {
+        "address": "14370 Culver Dr #F",
+        "city": "Irvine",
+        "lat": 33.70534863057765,
+        "long": -117.78562545776367,
+        "name": "Super Mex",
+        "tel": "9497261608",
+        "zipcode": "92604"
+    },
+    {
+        "address": "2700 Alton Pkwy #141",
+        "city": "Irvine",
+        "lat": 33.688726194748966,
+        "long": -117.8336012315729,
+        "name": "Papaya Thai Bistro",
+        "tel": "?",
+        "zipcode": "92606"
+    },
+    {
+        "address": "2 Hutton Centre Dr",
+        "city": "Santa Ana",
+        "lat": 33.6995291093988,
+        "long": -117.86544799804688,
+        "name": "Rubio's",
+        "tel": "7144320983",
+        "zipcode": "92707"
+    },
+    {
+        "address": "4695 MacArthur Ct",
+        "city": "Newport Beach",
+        "lat": 33.67020414765776,
+        "long": -117.86233864119207,
+        "name": "Specialty\u2019s Caf\u00e9 & Bakery",
+        "tel": "?",
+        "zipcode": "92660"
+    },
+    {
+        "address": "2467 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69704374,
+        "long": -117.828422,
+        "name": "Panera Bread",
+        "tel": "7142588840",
+        "zipcode": "92782"
+    },
+    {
+        "address": "3161 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.67481478515021,
+        "long": -117.8433315927066,
+        "name": "Bistro 24",
+        "tel": "9493797180",
+        "zipcode": "92612"
+    },
+    {
+        "address": "2000 Main St",
+        "city": "Irvine",
+        "lat": 33.684223581761216,
+        "long": -117.85056034261925,
+        "name": "McCormick and Schmick's",
+        "tel": "9497560505",
+        "zipcode": "92614"
+    },
+    {
+        "address": "17428 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.68366395875633,
+        "long": -117.84998228211232,
+        "name": "Kogi BBQ",
+        "tel": "?",
+        "zipcode": "92647"
+    },
+    {
+        "address": "5465 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.670272558623644,
+        "long": -117.78874330125505,
+        "name": "El Cholo Cantina",
+        "tel": "9494510044",
+        "zipcode": "92604"
+    },
+    {
+        "address": "?",
+        "city": "Tustin",
+        "lat": 33.697789,
+        "long": -117.826743,
+        "name": "J. Zhou Oriental Cuisine",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "2180 Barranca Pkwy Ste 120",
+        "city": "Irvine",
+        "lat": 33.699260711667456,
+        "long": -117.8360682133842,
+        "name": "Jollibee Irvine",
+        "tel": "9496601586",
+        "zipcode": "92606"
+    },
+    {
+        "address": "5445 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.670733639723224,
+        "long": -117.78939127922058,
+        "name": "McDonald's",
+        "tel": "9495514700",
+        "zipcode": "92604"
+    },
+    {
+        "address": "5365 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.67150001834338,
+        "long": -117.78885780712069,
+        "name": "Pizza 90",
+        "tel": "?",
+        "zipcode": "92604"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.69154033157819,
+        "long": -117.8564324176489,
+        "name": "24 Carrots Catering And Events",
+        "tel": "?",
+        "zipcode": "92614"
+    },
+    {
+        "address": "475 Anton Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.68940898335545,
+        "long": -117.87354963654025,
+        "name": "Experian Cafe",
+        "tel": "?",
+        "zipcode": "92626"
+    },
+    {
+        "address": "17925 MacArthur Blvd # B-25",
+        "city": "Irvine",
+        "lat": 33.68675231933594,
+        "long": -117.855712890625,
+        "name": "Mediterrania Grill",
+        "tel": "?",
+        "zipcode": "92614"
+    },
+    {
+        "address": "John Wayne Airport (SNA)",
+        "city": "Santa Ana",
+        "lat": 33.677877226095866,
+        "long": -117.86265912845685,
+        "name": "Javi's Bar & Casual Dine Restaurant",
+        "tel": "9492526125",
+        "zipcode": "92707"
+    },
+    {
+        "address": "?",
+        "city": "Fullerton",
+        "lat": 33.69144591318536,
+        "long": -117.8754438200878,
+        "name": "Papadads Food Truck",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "2190 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.700403847879855,
+        "long": -117.83667325973511,
+        "name": "Panda Express",
+        "tel": "9497571241",
+        "zipcode": "92606"
+    },
+    {
+        "address": "88 Corporate Park",
+        "city": "Irvine",
+        "lat": 33.6929059971687,
+        "long": -117.82696784257169,
+        "name": "El Pollo Loco",
+        "tel": "9497560380",
+        "zipcode": "92606"
+    },
+    {
+        "address": "?",
+        "city": "?",
+        "lat": 33.66360847536766,
+        "long": -117.8659498132253,
+        "name": "California Grill Truck",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "2463 Park Ave",
+        "city": "Tustin",
+        "lat": 33.69675309462751,
+        "long": -117.82829403877258,
+        "name": "Sharky's Woodfired Mexican Grill",
+        "tel": "7142582255",
+        "zipcode": "92782"
+    },
+    {
+        "address": "1720 E Dyer Rd",
+        "city": "Santa Ana",
+        "lat": 33.708098,
+        "long": -117.84944216666666,
+        "name": "Carl's Jr.",
+        "tel": "9492508960",
+        "zipcode": "92705"
+    },
+    {
+        "address": "2336 Park Ave",
+        "city": "Tustin",
+        "lat": 33.700470791784475,
+        "long": -117.82830476760864,
+        "name": "Aloha Hawaiian BBQ",
+        "tel": "7142581888",
+        "zipcode": "92782"
+    },
+    {
+        "address": "14370 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.70537877082825,
+        "long": -117.7847900390625,
+        "name": "Oriental Seafood Noodle House",
+        "tel": "9496548388",
+        "zipcode": "92604"
+    },
+    {
+        "address": "2180 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.69916,
+        "long": -117.836263,
+        "name": "Grill City",
+        "tel": "?",
+        "zipcode": "92606"
+    },
+    {
+        "address": "3972 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.684924,
+        "long": -117.810836,
+        "name": "Wingstop",
+        "tel": "9497869464",
+        "zipcode": "92606"
+    },
+    {
+        "address": "across from Gate 13, Terminal B",
+        "city": "Santa Ana",
+        "lat": 33.67818897350972,
+        "long": -117.86253322281303,
+        "name": "Pei Wei Asian Diner",
+        "tel": "?",
+        "zipcode": "92627"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.68807077309338,
+        "long": -117.83375577665538,
+        "name": "Capital BBQ Express",
+        "tel": "?",
+        "zipcode": "92606"
+    },
+    {
+        "address": "5643 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.669371965762785,
+        "long": -117.78826475143433,
+        "name": "Daphne's California Greek",
+        "tel": "9492960188",
+        "zipcode": "92618"
+    },
+    {
+        "address": "76 Corporate Park",
+        "city": "Irvine",
+        "lat": 33.69259113596658,
+        "long": -117.82618179917336,
+        "name": "Arby's",
+        "tel": "9492503262",
+        "zipcode": "92606"
+    },
+    {
+        "address": "17923 MacArthur Blvd",
+        "city": "Irvine",
+        "lat": 33.68691706990706,
+        "long": -117.85560255498834,
+        "name": "Twisted Noodles",
+        "tel": "9499550599",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2540 Main St Ste J",
+        "city": "Irvine",
+        "lat": 33.68163055,
+        "long": -117.8434643,
+        "name": "Thai & Chinese Express",
+        "tel": "9497241813",
+        "zipcode": "92614"
+    },
+    {
+        "address": "14370 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.705410566666664,
+        "long": -117.784825,
+        "name": "Wheel of Life",
+        "tel": "9495518222",
+        "zipcode": "92604"
+    },
+    {
+        "address": "18542 MacArthur Blvd",
+        "city": "Irvine",
+        "lat": 33.67812,
+        "long": -117.8599,
+        "name": "IHOP",
+        "tel": "9494744467",
+        "zipcode": "92612"
+    },
+    {
+        "address": "5613 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.669752862749895,
+        "long": -117.78647034507811,
+        "name": "NY Upper Crust Pizza",
+        "tel": "9496531033",
+        "zipcode": "92618"
+    },
+    {
+        "address": "4678 Campus Dr",
+        "city": "Newport Beach",
+        "lat": 33.6708899,
+        "long": -117.8650188,
+        "name": "Bruegger's",
+        "tel": "9498529480",
+        "zipcode": "92660"
+    },
+    {
+        "address": "17585 Harvard Ave",
+        "city": "Irvine",
+        "lat": 33.677298,
+        "long": -117.831952,
+        "name": "Pick Up Stix",
+        "tel": "9497241772",
+        "zipcode": "92614"
+    },
+    {
+        "address": "4250 Barranca Pkwy #Q",
+        "city": "Irvine",
+        "lat": 33.681393,
+        "long": -117.805062,
+        "name": "17 Cafe Ramen",
+        "tel": "9495596631",
+        "zipcode": "92604"
+    },
+    {
+        "address": "3333 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.6819086415616,
+        "long": -117.84247877591507,
+        "name": "El Pollo Loco",
+        "tel": "9493992000",
+        "zipcode": "92612"
+    },
+    {
+        "address": "17595 Harvard Ave Ste A",
+        "city": "Irvine",
+        "lat": 33.67770239417384,
+        "long": -117.83313274383545,
+        "name": "The Flame Broiler",
+        "tel": "9492508030",
+        "zipcode": "92614"
+    },
+    {
+        "address": "?",
+        "city": "?",
+        "lat": 33.694289181592296,
+        "long": -117.82723042609157,
+        "name": "Lobstatruck",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "6000 Scholarship",
+        "city": "Irvine",
+        "lat": 33.66635408333333,
+        "long": -117.852525,
+        "name": "Phans 55",
+        "tel": "9497241236",
+        "zipcode": "92612"
+    },
+    {
+        "address": "128 W MacArthur Blvd",
+        "city": "Santa Ana",
+        "lat": 33.699735,
+        "long": -117.869287,
+        "name": "Rafael's Pizza",
+        "tel": "?",
+        "zipcode": "92707"
+    },
+    {
+        "address": "?",
+        "city": "Greater Orange County",
+        "lat": 33.6863939565327,
+        "long": -117.8587903515924,
+        "name": "Tamarindo Truck",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "15333 Culver Dr #320",
+        "city": "Irvine",
+        "lat": 33.696046,
+        "long": -117.799447,
+        "name": "Tasty Noodle House",
+        "tel": "9496543770",
+        "zipcode": "92604"
+    },
+    {
+        "address": "17933 MacArthur Blvd",
+        "city": "Irvine",
+        "lat": 33.686633556989534,
+        "long": -117.85588299175893,
+        "name": "Flippin Pizza",
+        "tel": "9499553800",
+        "zipcode": "92614"
+    },
+    {
+        "address": "17162 Murphy Ave #A",
+        "city": "Irvine",
+        "lat": 33.68535353427707,
+        "long": -117.83141613006592,
+        "name": "Wine Cellar Club Of Irvine",
+        "tel": "9492521828",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2222 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.67647029162748,
+        "long": -117.8554916381836,
+        "name": "Gourmet Burgers (Halaal)",
+        "tel": "9492510786",
+        "zipcode": "92612"
+    },
+    {
+        "address": "?",
+        "city": "Tustin",
+        "lat": 33.69968230658888,
+        "long": -117.82333800082844,
+        "name": "Costco Food Court",
+        "tel": "?",
+        "zipcode": "92782"
+    },
+    {
+        "address": "15333 Culver Dr #660",
+        "city": "Irvine",
+        "lat": 33.695565673029314,
+        "long": -117.79821842048605,
+        "name": "JJ Bakery And Cafe",
+        "tel": "9496531566",
+        "zipcode": "92604"
+    },
+    {
+        "address": "15433 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.695443,
+        "long": -117.800147,
+        "name": "Outback Steakhouse",
+        "tel": "9496518760",
+        "zipcode": "92604"
+    },
+    {
+        "address": "14386 Culver Drive",
+        "city": "Irvine",
+        "lat": 33.70581567,
+        "long": -117.786127,
+        "name": "Wendy's",
+        "tel": "9498570152",
+        "zipcode": "92604"
+    },
+    {
+        "address": "Terminal C",
+        "city": "Santa Ana",
+        "lat": 33.67825027301485,
+        "long": -117.86269346634457,
+        "name": "SUBWAY",
+        "tel": "9492539040",
+        "zipcode": "92707"
+    },
+    {
+        "address": "545 Anton Blvd Ste 103",
+        "city": "Costa Mesa",
+        "lat": 33.68990099,
+        "long": -117.8773937,
+        "name": "Quiznos",
+        "tel": "7145467222",
+        "zipcode": "92626"
+    },
+    {
+        "address": "750 E Dyer Rd",
+        "city": "Santa Ana",
+        "lat": 33.70805152747017,
+        "long": -117.85491004601026,
+        "name": "Wienerschnitzel",
+        "tel": "7149668543",
+        "zipcode": "92705"
+    },
+    {
+        "address": "Terminal B, near Gate 13",
+        "city": "Santa Ana",
+        "lat": 33.678111258706124,
+        "long": -117.86261334459645,
+        "name": "ZOVS",
+        "tel": "?",
+        "zipcode": "92707"
+    },
+    {
+        "address": "2001 Michelson Dr Ste A",
+        "city": "Irvine",
+        "lat": 33.677357463222556,
+        "long": -117.85830961025835,
+        "name": "Java Hut Express",
+        "tel": "9492615282",
+        "zipcode": "92612"
+    },
+    {
+        "address": "4253 Martingale Way",
+        "city": "Newport Beach",
+        "lat": 33.66587772251317,
+        "long": -117.86568656063614,
+        "name": "Tapas Restaurant",
+        "tel": "9497568194",
+        "zipcode": "92660"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.678517488412034,
+        "long": -117.83449415691148,
+        "name": "Del Taco",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "1000 Bristol St N Ste 6",
+        "city": "Newport Beach",
+        "lat": 33.6577376,
+        "long": -117.866246,
+        "name": "TOGO'S Sandwiches",
+        "tel": "9498631516",
+        "zipcode": "92660"
+    },
+    {
+        "address": "16569 Von Karman Ave #7002",
+        "city": "Irvine",
+        "lat": 33.69768767594623,
+        "long": -117.8351123334349,
+        "name": "Garbanzo Mediterranean Grill",
+        "tel": "?",
+        "zipcode": "92606"
+    },
+    {
+        "address": "4880 Campus Dr",
+        "city": "Newport Beach",
+        "lat": 33.669546465710916,
+        "long": -117.86001509163155,
+        "name": "Carl's Jr.",
+        "tel": "9492528736",
+        "zipcode": "92660"
+    },
+    {
+        "address": "2102 Business Center Dr",
+        "city": "Irvine",
+        "lat": 33.67997713333333,
+        "long": -117.85512058333333,
+        "name": "Bernardo's Deli",
+        "tel": "9492534617",
+        "zipcode": "92612"
+    },
+    {
+        "address": "5325 Alton Pkwy Ste C",
+        "city": "Irvine",
+        "lat": 33.67208546,
+        "long": -117.7902109,
+        "name": "TOGO'S Sandwiches",
+        "tel": "9495527716",
+        "zipcode": "92604"
+    },
+    {
+        "address": "2 Hutton Centre Dr",
+        "city": "Santa Ana",
+        "lat": 33.699654072584245,
+        "long": -117.86420345306396,
+        "name": "Thai Spice",
+        "tel": "7147547001",
+        "zipcode": "92707"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.689872,
+        "long": -117.862048,
+        "name": "Vishnu",
+        "tel": "9497520358",
+        "zipcode": "?"
+    },
+    {
+        "address": "15333 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.6957444239584,
+        "long": -117.79935300350189,
+        "name": "Panda Express",
+        "tel": "9497333893",
+        "zipcode": "92604"
+    },
+    {
+        "address": "4248 Martingale Way",
+        "city": "Newport Beach",
+        "lat": 33.66455142932818,
+        "long": -117.86484529437097,
+        "name": "Saagar",
+        "tel": "9499551904",
+        "zipcode": "92660"
+    },
+    {
+        "address": "2040 Main St",
+        "city": "Irvine",
+        "lat": 33.6826758503396,
+        "long": -117.8522201101179,
+        "name": "Palazzo Cafe",
+        "tel": "9498722885",
+        "zipcode": "92614"
+    },
+    {
+        "address": "3337 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.67216385969283,
+        "long": -117.84175759887255,
+        "name": "Market Caf\u00e9 at Park Place",
+        "tel": "9496601883",
+        "zipcode": "92612"
+    },
+    {
+        "address": "3851 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.683121650100404,
+        "long": -117.8130054473877,
+        "name": "Jalape\u00f1o's Mexican Restaurant",
+        "tel": "9492518976",
+        "zipcode": "92606"
+    },
+    {
+        "address": "18068 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.66398531844359,
+        "long": -117.82606270721003,
+        "name": "Ameci",
+        "tel": "9898571900",
+        "zipcode": "92612"
+    },
+    {
+        "address": "3800 Barranca Pkwy",
+        "city": "Irvine",
+        "lat": 33.68426767,
+        "long": -117.812192,
+        "name": "Pizza Hut",
+        "tel": "9495511505",
+        "zipcode": "92606"
+    },
+    {
+        "address": "14370 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.70548216287348,
+        "long": -117.79289981851045,
+        "name": "koba",
+        "tel": "9492620261",
+        "zipcode": "92604"
+    },
+    {
+        "address": "4100 Newport Place Dr",
+        "city": "Newport Beach",
+        "lat": 33.66269112599765,
+        "long": -117.86526306654038,
+        "name": "Cafe 4100",
+        "tel": "9498515833",
+        "zipcode": "92660"
+    },
+    {
+        "address": "?",
+        "city": "?",
+        "lat": 33.672455300954766,
+        "long": -117.86299678407114,
+        "name": "Cafe 19000",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "18800 MacArthur Blvd",
+        "city": "Irvine",
+        "lat": 33.674876381730606,
+        "long": -117.86077625768795,
+        "name": "Aura Bar & Grill",
+        "tel": "9498339999",
+        "zipcode": "92612"
+    },
+    {
+        "address": "1 Park Plz",
+        "city": "Irvine",
+        "lat": 33.67962445218271,
+        "long": -117.83954253727545,
+        "name": "Bistro 24",
+        "tel": "?",
+        "zipcode": "92614"
+    },
+    {
+        "address": "84 Corporate Park",
+        "city": "Irvine",
+        "lat": 33.69332861744305,
+        "long": -117.82662939524552,
+        "name": "McDonald's",
+        "tel": "9492511901",
+        "zipcode": "92606"
+    },
+    {
+        "address": "15463 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.69444850134772,
+        "long": -117.7992374676617,
+        "name": "KFC/Taco Bell",
+        "tel": "9495594240",
+        "zipcode": "92604"
+    },
+    {
+        "address": "345 Fischer Ave",
+        "city": "Costa Mesa",
+        "lat": 33.67355611509168,
+        "long": -117.87609619292566,
+        "name": "\"The Caf\" at ROCKHARBOR",
+        "tel": "?",
+        "zipcode": "92626"
+    },
+    {
+        "address": "14413 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.70607604300435,
+        "long": -117.78704702854156,
+        "name": "Burntzilla",
+        "tel": "9493925995",
+        "zipcode": "92604"
+    },
+    {
+        "address": "3089 Edinger Ave",
+        "city": "Tustin",
+        "lat": 33.705638707713575,
+        "long": -117.80627331884187,
+        "name": "Jack in the Box",
+        "tel": "9498570849",
+        "zipcode": "92780"
+    },
+    {
+        "address": "1980 Main St",
+        "city": "Irvine",
+        "lat": 33.68411897555795,
+        "long": -117.85457809862399,
+        "name": "Oliver Cafe",
+        "tel": "?",
+        "zipcode": "92614"
+    },
+    {
+        "address": "18000 Von Karman Ave",
+        "city": "Irvine",
+        "lat": 33.678184509277344,
+        "long": -117.85018920898438,
+        "name": "FLOE Lounge",
+        "tel": "9495530100",
+        "zipcode": "92612"
+    },
+    {
+        "address": "1740 E Dyer Rd",
+        "city": "Santa Ana",
+        "lat": 33.70819771766195,
+        "long": -117.84907226235053,
+        "name": "Del Taco",
+        "tel": "9492504716",
+        "zipcode": "92705"
+    },
+    {
+        "address": "4101 Jamboree Rd",
+        "city": "Newport Beach",
+        "lat": 33.65972527699718,
+        "long": -117.86124554645116,
+        "name": "Taco Bell",
+        "tel": "9497240133",
+        "zipcode": "92660"
+    },
+    {
+        "address": "720 E Dyer Rd",
+        "city": "Santa Ana",
+        "lat": 33.708173,
+        "long": -117.8552187,
+        "name": "Jack in the Box",
+        "tel": "7145464296",
+        "zipcode": "92705"
+    },
+    {
+        "address": "17900 Jamboree Rd",
+        "city": "Irvine",
+        "lat": 33.67848088940542,
+        "long": -117.84027517044377,
+        "name": "Eats Kitchen & Bar",
+        "tel": "9492256666",
+        "zipcode": "92614"
+    },
+    {
+        "address": "2222 Michelson Dr",
+        "city": "Irvine",
+        "lat": 33.6760607723554,
+        "long": -117.85512752845241,
+        "name": "Gyro King",
+        "tel": "?",
+        "zipcode": "92612"
+    },
+    {
+        "address": "14310 Culver Dr., #F",
+        "city": "Irvine",
+        "lat": 33.70589423333333,
+        "long": -117.7842787,
+        "name": "Spicy City",
+        "tel": "9497339200",
+        "zipcode": "92604"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.668542860856604,
+        "long": -117.7853424445648,
+        "name": "Square One Pizza",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "14450 Culver Dr Ste E",
+        "city": "Irvine",
+        "lat": 33.704447166139396,
+        "long": -117.78591513633728,
+        "name": "Lamppost Pizza",
+        "tel": "9498570160",
+        "zipcode": "92604"
+    },
+    {
+        "address": "?",
+        "city": "Irvine",
+        "lat": 33.703952,
+        "long": -117.7857738,
+        "name": "Annapoorna Indian Cuisine",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "14310 Culver Blvd., #A",
+        "city": "Irvine",
+        "lat": 33.70586376344452,
+        "long": -117.78430614409325,
+        "name": "L&L Hawaiian Barbecue",
+        "tel": "9492629088",
+        "zipcode": "USA"
+    },
+    {
+        "address": "14443 Culver Dr",
+        "city": "Irvine",
+        "lat": 33.706125131964605,
+        "long": -117.78806626796722,
+        "name": "French's Bakery",
+        "tel": "9492629270",
+        "zipcode": "92604"
+    },
+    {
+        "address": "14450 Culver Dr Ste C",
+        "city": "Irvine",
+        "lat": 33.704119155691856,
+        "long": -117.78592854738235,
+        "name": "Caff\u00e9 Bene",
+        "tel": "9494308030",
+        "zipcode": "92604"
+    },
+    {
+        "address": "5781 Alton Pkwy",
+        "city": "Irvine",
+        "lat": 33.668508,
+        "long": -117.785273,
+        "name": "Pain du Monde",
+        "tel": "9493366292",
+        "zipcode": "92618"
+    },
+    {
+        "address": "21032 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.6570339553624,
+        "long": -117.98722837211413,
+        "name": "Las Barcas",
+        "tel": "7145362616",
+        "zipcode": "92648"
+    },
+    {
+        "address": "815 Indianapolis Ave",
+        "city": "Huntington Beach",
+        "lat": 33.665269870733766,
+        "long": -117.98892119504578,
+        "name": "Normita's Surf City Tacos",
+        "tel": "7149608730",
+        "zipcode": "92648"
+    },
+    {
+        "address": "8861 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.6725328020918,
+        "long": -117.97312259674072,
+        "name": "Bagelmania & Coffee House",
+        "tel": "7149655637",
+        "zipcode": "92646"
+    },
+    {
+        "address": "9791 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.672735812283165,
+        "long": -117.95715442971847,
+        "name": "Polly's Pies - Huntington Beach",
+        "tel": "7149644424",
+        "zipcode": "92646"
+    },
+    {
+        "address": "21022 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.65744372910118,
+        "long": -117.98711971063369,
+        "name": "Mama's On 39",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "8280 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.67183001072449,
+        "long": -117.98721121504268,
+        "name": "Slater's 50/50",
+        "tel": "7145945730",
+        "zipcode": "92646"
+    },
+    {
+        "address": "807 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.672544211752246,
+        "long": -117.9896074700329,
+        "name": "La Capilla Family Restaurant",
+        "tel": "7143740342",
+        "zipcode": "92648"
+    },
+    {
+        "address": "301 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.659227,
+        "long": -117.99996,
+        "name": "Sushi on Fire",
+        "tel": "7143748885",
+        "zipcode": "92648"
+    },
+    {
+        "address": "8841 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.67290564481423,
+        "long": -117.97365089361564,
+        "name": "Irassae",
+        "tel": "7149651904",
+        "zipcode": "92646"
+    },
+    {
+        "address": "10124 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.672090957773264,
+        "long": -117.95212155575827,
+        "name": "Woody's Diner",
+        "tel": "7149654555",
+        "zipcode": "92646"
+    },
+    {
+        "address": "10035 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.674026,
+        "long": -117.95270025730133,
+        "name": "zpizza",
+        "tel": "7149688844",
+        "zipcode": "92646"
+    },
+    {
+        "address": "9017 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.6731179837614,
+        "long": -117.97074538501542,
+        "name": "Mona Lisa Cucina",
+        "tel": "7149659900",
+        "zipcode": "92646"
+    },
+    {
+        "address": "19696 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.67733633656512,
+        "long": -117.98814296722414,
+        "name": "SlapFish - A Modern Seafood Shack",
+        "tel": "7149633900",
+        "zipcode": "92648"
+    },
+    {
+        "address": "20379 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.66614272309377,
+        "long": -117.98904701232459,
+        "name": "John's Philly Grille",
+        "tel": "7149698755",
+        "zipcode": "92648"
+    },
+    {
+        "address": "602 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.658663892567404,
+        "long": -118.00342391056442,
+        "name": "Sancho's Tacos",
+        "tel": "7145368226",
+        "zipcode": "92648"
+    },
+    {
+        "address": "214 5th St Ste 101",
+        "city": "Huntington Beach",
+        "lat": 33.659052,
+        "long": -118.00118,
+        "name": "North Shore Poke Co.",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "301 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.659377,
+        "long": -117.999768,
+        "name": "Pizza Lounge",
+        "tel": "7143740200",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19684 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.676497076653156,
+        "long": -117.98698425292969,
+        "name": "Super Mex",
+        "tel": "7149641828",
+        "zipcode": "92648"
+    },
+    {
+        "address": "315 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.656448,
+        "long": -118.002245,
+        "name": "Sandy's",
+        "tel": "7143747273",
+        "zipcode": "92648"
+    },
+    {
+        "address": "317 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.656652,
+        "long": -118.00217401109565,
+        "name": "Duke's",
+        "tel": "7143746446",
+        "zipcode": "92648"
+    },
+    {
+        "address": "213 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.658424216760494,
+        "long": -118.00080299377441,
+        "name": "Sugar Shack Cafe",
+        "tel": "7145360355",
+        "zipcode": "92648"
+    },
+    {
+        "address": "221 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.65879795746969,
+        "long": -118.00045026393559,
+        "name": "Luigi's Italian Restaurant",
+        "tel": "7145362234",
+        "zipcode": "92648"
+    },
+    {
+        "address": "9093 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.6727470918754,
+        "long": -117.9697322845459,
+        "name": "Don Jos\u00e9",
+        "tel": "7149627911",
+        "zipcode": "92646"
+    },
+    {
+        "address": "8961 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.673284,
+        "long": -117.97155688,
+        "name": "The Corner",
+        "tel": "7149686800",
+        "zipcode": "92646"
+    },
+    {
+        "address": "318 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.659349,
+        "long": -117.99962388,
+        "name": "Avila's El Ranchito",
+        "tel": "7149609696",
+        "zipcode": "92648"
+    },
+    {
+        "address": "10035 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.67401446927572,
+        "long": -117.95300817630148,
+        "name": "The Original Pancake House",
+        "tel": "7149647500",
+        "zipcode": "92646"
+    },
+    {
+        "address": "221 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.65881384,
+        "long": -118.00066,
+        "name": "Aloha Grill",
+        "tel": "7143744427",
+        "zipcode": "92648"
+    },
+    {
+        "address": "201 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.65829699098465,
+        "long": -118.00116003894465,
+        "name": "Huntington Beach Beer Co. & Restaurant",
+        "tel": "7149605343",
+        "zipcode": "92648"
+    },
+    {
+        "address": "8911 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.6731,
+        "long": -117.97206655,
+        "name": "Lucci's Deli",
+        "tel": "?",
+        "zipcode": "92646"
+    },
+    {
+        "address": "19690 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.67628271766239,
+        "long": -117.98711399160659,
+        "name": "Silk Thai Cuisine",
+        "tel": "7149641151",
+        "zipcode": "92648"
+    },
+    {
+        "address": "8943 Atlanta Ave",
+        "city": "Huntington Beach",
+        "lat": 33.658689905809034,
+        "long": -117.97198652340558,
+        "name": "Rockin' Crepes",
+        "tel": "7145369100",
+        "zipcode": "92646"
+    },
+    {
+        "address": "211 62nd St",
+        "city": "Newport Beach",
+        "lat": 33.62690051581521,
+        "long": -117.94873519694532,
+        "name": "Eat Chow (Newport)",
+        "tel": "9494237080",
+        "zipcode": "92663"
+    },
+    {
+        "address": "1 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.6529230274879,
+        "long": -118.00621032714844,
+        "name": "Ruby's Diner",
+        "tel": "7149697829",
+        "zipcode": "92648"
+    },
+    {
+        "address": "10078 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.670149370043696,
+        "long": -117.9528994940191,
+        "name": "Eggroll King",
+        "tel": "7143788612",
+        "zipcode": "92646"
+    },
+    {
+        "address": "5930 W Coast Hwy",
+        "city": "Newport Beach",
+        "lat": 33.62573303133932,
+        "long": -117.94755682060588,
+        "name": "Cappy's Cafe & Cantina",
+        "tel": "9496464202",
+        "zipcode": "92663"
+    },
+    {
+        "address": "6310 W Coast Hwy",
+        "city": "Newport Beach",
+        "lat": 33.62702654739279,
+        "long": -117.9499576985836,
+        "name": "Big Belly Deli",
+        "tel": "9496452888",
+        "zipcode": "92663"
+    },
+    {
+        "address": "200 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.65808487,
+        "long": -118.0007601,
+        "name": "BJ's Restaurant and Brewhouse",
+        "tel": "7143742224",
+        "zipcode": "92648"
+    },
+    {
+        "address": "110 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.65588009187912,
+        "long": -117.99987268449871,
+        "name": "TK Burgers",
+        "tel": "7149603238",
+        "zipcode": "92648"
+    },
+    {
+        "address": "1862 Placentia Ave",
+        "city": "Costa Mesa",
+        "lat": 33.642121,
+        "long": -117.931761,
+        "name": "Wahoo's Fish Taco",
+        "tel": "9496313433",
+        "zipcode": "92627"
+    },
+    {
+        "address": "301 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.659590479151085,
+        "long": -117.99969540726583,
+        "name": "Shabu On Fire",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19079 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.68543409908632,
+        "long": -117.99034521269675,
+        "name": "Bread Crumb Ohana Cafe",
+        "tel": "7149605051",
+        "zipcode": "92648"
+    },
+    {
+        "address": "200 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.65817391133836,
+        "long": -118.00082769106952,
+        "name": "Hurricane's Bar & Grill",
+        "tel": "7143740500",
+        "zipcode": "92648"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.67207052586899,
+        "long": -117.95660609465331,
+        "name": "Da Hawaiian Kitchen",
+        "tel": "7149688900",
+        "zipcode": "92646"
+    },
+    {
+        "address": "501 Main St Ste D",
+        "city": "Huntington Beach",
+        "lat": 33.661093047277895,
+        "long": -117.99899201521414,
+        "name": "Jan's Health Bar",
+        "tel": "7145364856",
+        "zipcode": "92648"
+    },
+    {
+        "address": "869 W 16th St",
+        "city": "Newport Beach",
+        "lat": 33.63228012273957,
+        "long": -117.93419944123329,
+        "name": "Orange Coast Winery",
+        "tel": "9496450400",
+        "zipcode": "92663"
+    },
+    {
+        "address": "9142 Garfield Ave",
+        "city": "Huntington Beach",
+        "lat": 33.6864960193634,
+        "long": -117.96963107,
+        "name": "Alberto's Mexican Food",
+        "tel": "7149654107",
+        "zipcode": "92646"
+    },
+    {
+        "address": "647 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.64328853,
+        "long": -117.92527735233307,
+        "name": "Taco Mesa",
+        "tel": "9496420629",
+        "zipcode": "92627"
+    },
+    {
+        "address": "18848 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.68992423512231,
+        "long": -117.95336282329086,
+        "name": "Tsuruhashi",
+        "tel": "7145938393",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18932 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.68727737193265,
+        "long": -117.9533064365387,
+        "name": "Samurai Burrito",
+        "tel": "7149621370",
+        "zipcode": "92708"
+    },
+    {
+        "address": "745 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.64302723506725,
+        "long": -117.92938253237362,
+        "name": "El Toro Bravo",
+        "tel": "9496314464",
+        "zipcode": "92627"
+    },
+    {
+        "address": "21500 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.651172396389065,
+        "long": -117.99067119104045,
+        "name": "Watertable",
+        "tel": "7148454776",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18315 Brookhurst St #1",
+        "city": "Fountain Valley",
+        "lat": 33.69604345587833,
+        "long": -117.95474946498871,
+        "name": "Shin-Sen-Gumi Hakata Ramen",
+        "tel": "7149628971",
+        "zipcode": "92708"
+    },
+    {
+        "address": "19752 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.67520345,
+        "long": -117.987267,
+        "name": "Fuji Grill",
+        "tel": "7145936400",
+        "zipcode": "92648"
+    },
+    {
+        "address": "10176 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.672161,
+        "long": -117.950987,
+        "name": "Los Primos Cantina",
+        "tel": "?",
+        "zipcode": "92646"
+    },
+    {
+        "address": "2101 Placentia Ave",
+        "city": "Costa Mesa",
+        "lat": 33.650889,
+        "long": -117.932357,
+        "name": "Avila's El Ranchito",
+        "tel": "9496421142",
+        "zipcode": "92627"
+    },
+    {
+        "address": "300 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.657316862774806,
+        "long": -118.00161838531494,
+        "name": "Fred's Mexican Cafe",
+        "tel": "7143748226",
+        "zipcode": "92648"
+    },
+    {
+        "address": "799 W 17th St",
+        "city": "Costa Mesa",
+        "lat": 33.635978,
+        "long": -117.93170928955078,
+        "name": "Tom's Place",
+        "tel": "9496469301",
+        "zipcode": "92627"
+    },
+    {
+        "address": "22311 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.63863868677034,
+        "long": -117.96168538577585,
+        "name": "Massimo's Pizza",
+        "tel": "7149641888",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18603 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.69306647977968,
+        "long": -117.9926061630249,
+        "name": "Mario's Restaurant",
+        "tel": "7148425811",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19881 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.67338995802247,
+        "long": -117.9541540145874,
+        "name": "Crivello Ristorante Italiano",
+        "tel": "7145939099",
+        "zipcode": "92646"
+    },
+    {
+        "address": "9121 Garfield Ave",
+        "city": "Fountain Valley",
+        "lat": 33.6870539188385,
+        "long": -117.9695,
+        "name": "Papa Z's",
+        "tel": "7149628887",
+        "zipcode": "92708"
+    },
+    {
+        "address": "520 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.66168124514183,
+        "long": -117.99874611327193,
+        "name": "Coast @ Cucina Alessa",
+        "tel": "7149692148",
+        "zipcode": "92648"
+    },
+    {
+        "address": "Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.68641222718143,
+        "long": -117.9895960321381,
+        "name": "Beach Hut Deli",
+        "tel": "?",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18450 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.6948287,
+        "long": -117.95388808,
+        "name": "Kappo Honda",
+        "tel": "7149644629",
+        "zipcode": "92708"
+    },
+    {
+        "address": "501 Main St Ste E",
+        "city": "Huntington Beach",
+        "lat": 33.661201990358585,
+        "long": -117.99891767280234,
+        "name": "Bodhi Tree Vegetarian Cafe",
+        "tel": "7149699500",
+        "zipcode": "92648"
+    },
+    {
+        "address": "2300 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.658143511744534,
+        "long": -117.91800908161831,
+        "name": "Nick's Pizza Ristorante",
+        "tel": "9497227566",
+        "zipcode": "92626"
+    },
+    {
+        "address": "2196 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.65406446526298,
+        "long": -117.918844379599,
+        "name": "Newport Rib Company",
+        "tel": "9496312110",
+        "zipcode": "92627"
+    },
+    {
+        "address": "2023 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.64807751,
+        "long": -117.91974127292633,
+        "name": "Golden Dragon",
+        "tel": "9496427162",
+        "zipcode": "92627"
+    },
+    {
+        "address": "18671 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69189385029366,
+        "long": -117.95490152548842,
+        "name": "First Class Pizza",
+        "tel": "7149644800",
+        "zipcode": "92708"
+    },
+    {
+        "address": "21501 Brookhurst St, Suite D",
+        "city": "Huntington Beach",
+        "lat": 33.6502922349377,
+        "long": -117.95414304907376,
+        "name": "Lou's Red Oak BBQ Grill",
+        "tel": "7149655200",
+        "zipcode": "92646"
+    },
+    {
+        "address": "2340 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.660819,
+        "long": -117.918725,
+        "name": "EN Sushi",
+        "tel": "7145579700",
+        "zipcode": "92626"
+    },
+    {
+        "address": "814 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.64348683,
+        "long": -117.932734,
+        "name": "Big Belly Deli",
+        "tel": "9492268333",
+        "zipcode": "92627"
+    },
+    {
+        "address": "18420 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.695391,
+        "long": -117.95314793426681,
+        "name": "Mandarin Restaurant",
+        "tel": "7149625789",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18924A Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.688449307782044,
+        "long": -117.95244760382268,
+        "name": "Ebisu Ramen Restaurant",
+        "tel": "7149645993",
+        "zipcode": "92708"
+    },
+    {
+        "address": "19171 Magnolia St",
+        "city": "Huntington Beach",
+        "lat": 33.683743,
+        "long": -117.971719,
+        "name": "Basilico's Pasta E Vino",
+        "tel": "7149637980",
+        "zipcode": "92646"
+    },
+    {
+        "address": "7201 Yorktown Ave Ste 106",
+        "city": "Huntington Beach",
+        "lat": 33.682818109376086,
+        "long": -118.00449371337889,
+        "name": "Athens West",
+        "tel": "7145366112",
+        "zipcode": "92648"
+    },
+    {
+        "address": "150 5th St",
+        "city": "Huntington Beach",
+        "lat": 33.658183036830835,
+        "long": -118.00238885843575,
+        "name": "Sertinos Coffee Cafe",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "594 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.64372671227913,
+        "long": -117.92298648497729,
+        "name": "In-N-Out Burger",
+        "tel": "8007861000",
+        "zipcode": "92627"
+    },
+    {
+        "address": "801 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.64304233779987,
+        "long": -117.93232303601982,
+        "name": "Alejandros Mexican Food",
+        "tel": "9496312561",
+        "zipcode": "92627"
+    },
+    {
+        "address": "2300 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.658031286332225,
+        "long": -117.91866302490234,
+        "name": "Chipotle Mexican Grill",
+        "tel": "9496461288",
+        "zipcode": "92626"
+    },
+    {
+        "address": "21500 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.651426,
+        "long": -117.99118013333333,
+        "name": "Pete's Sunset Grille",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18621 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69289196,
+        "long": -117.9547095,
+        "name": "Islands Restaurant",
+        "tel": "7149620966",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18900 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.688317386887356,
+        "long": -117.95333862304688,
+        "name": "Genghis Khan Mongolian BBQ",
+        "tel": "7149684027",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18908 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.688362749999996,
+        "long": -117.952974,
+        "name": "California Shabu-Shabu",
+        "tel": "7149638844",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18727 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69082,
+        "long": -117.95460947,
+        "name": "Stonefire Grill",
+        "tel": "7149688300",
+        "zipcode": "92708"
+    },
+    {
+        "address": "19072 Beach Blvd Ste F",
+        "city": "Huntington Beach",
+        "lat": 33.6856566327954,
+        "long": -117.98834929720476,
+        "name": "Thai Gulf Restaurant",
+        "tel": "7143786005",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18685 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.692039,
+        "long": -117.9925525188446,
+        "name": "Hashigo Sushi",
+        "tel": "7148481111",
+        "zipcode": "92648"
+    },
+    {
+        "address": "6700 W Coast Hwy",
+        "city": "Newport Beach",
+        "lat": 33.62825,
+        "long": -117.95189559459686,
+        "name": "Cucina Alessa",
+        "tel": "9496452148",
+        "zipcode": "92663"
+    },
+    {
+        "address": "18225 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69889678192157,
+        "long": -117.95519324820707,
+        "name": "Sushi Koto",
+        "tel": "7149640988",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18344 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.696243,
+        "long": -117.988113,
+        "name": "The Black Trumpet Bistro",
+        "tel": "7148421122",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18944 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.687896,
+        "long": -117.9522979259491,
+        "name": "Two Brothers Pizza",
+        "tel": "7149684481",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18900 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.687479,
+        "long": -117.987925,
+        "name": "Ikeda",
+        "tel": "7148612125",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18315 Brookhurst St #2",
+        "city": "Fountain Valley",
+        "lat": 33.695815834660735,
+        "long": -117.95466899871826,
+        "name": "Corner Bakery Cafe",
+        "tel": "7148614092",
+        "zipcode": "92708"
+    },
+    {
+        "address": "670 W 17th St #G8",
+        "city": "Costa Mesa",
+        "lat": 33.636362,
+        "long": -117.926622,
+        "name": "Catalina Fish Kitchen",
+        "tel": "9496458873",
+        "zipcode": "92627"
+    },
+    {
+        "address": "18541 Beach Blvd.",
+        "city": "Huntington Beach",
+        "lat": 33.69315178800677,
+        "long": -117.98926741448682,
+        "name": "Boudin SF Huntington Beach",
+        "tel": "7148455515",
+        "zipcode": "92648"
+    },
+    {
+        "address": "120 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.657697614989196,
+        "long": -118.00126230314102,
+        "name": "Wahoo's Fish Taco",
+        "tel": "7145362050",
+        "zipcode": "92648"
+    },
+    {
+        "address": "323 11th St Ste E",
+        "city": "Huntington Beach",
+        "lat": 33.66358081037667,
+        "long": -118.00480206454536,
+        "name": "Sit, Stay Cafe",
+        "tel": "7149600009",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18862 Beach Blvd #101",
+        "city": "Huntington Beach",
+        "lat": 33.68849592896157,
+        "long": -117.98844337463379,
+        "name": "Monkey House Cafe",
+        "tel": "7149651135",
+        "zipcode": "92648"
+    },
+    {
+        "address": "155 5th St",
+        "city": "Huntington Beach",
+        "lat": 33.65809954241289,
+        "long": -118.0031437036767,
+        "name": "RA Sushi Bar Restaurant",
+        "tel": "7145366390",
+        "zipcode": "92648"
+    },
+    {
+        "address": "418 17th St",
+        "city": "Huntington Beach",
+        "lat": 33.667742013931274,
+        "long": -118.00909101963043,
+        "name": "Fiesta Grill",
+        "tel": "7149697689",
+        "zipcode": "92648"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.65768626640624,
+        "long": -118.00233739159813,
+        "name": "Sessions West Coast Deli",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "19893 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.67329464729463,
+        "long": -117.95447824069927,
+        "name": "HB Pita Grill",
+        "tel": "7149647482",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18279 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69747165367828,
+        "long": -117.95502573251724,
+        "name": "Super Mex",
+        "tel": "7149629881",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18525 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69347763,
+        "long": -117.95474383,
+        "name": "Lucky Chinese Food",
+        "tel": "7149624221",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18774 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69399484321261,
+        "long": -117.95398235321045,
+        "name": "Fortune Cookies",
+        "tel": "7149625000",
+        "zipcode": "92708"
+    },
+    {
+        "address": "20921 Magnolia St",
+        "city": "Huntington Beach",
+        "lat": 33.65861983333333,
+        "long": -117.97141013333334,
+        "name": "Del Taco",
+        "tel": "7145362991",
+        "zipcode": "92646"
+    },
+    {
+        "address": "21401 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.65178434454809,
+        "long": -117.95412182807922,
+        "name": "Del Taco",
+        "tel": "7149633303",
+        "zipcode": "92646"
+    },
+    {
+        "address": "6204 W Coast Hwy",
+        "city": "Newport Beach",
+        "lat": 33.62653967169297,
+        "long": -117.94910341501236,
+        "name": "Spaghetti Bender Restaurant",
+        "tel": "9496450651",
+        "zipcode": "92663"
+    },
+    {
+        "address": "7175 Yorktown Ave",
+        "city": "Huntington Beach",
+        "lat": 33.679599,
+        "long": -118.00333878,
+        "name": "Del Taco",
+        "tel": "7149608765",
+        "zipcode": "92648"
+    },
+    {
+        "address": "10035 Adams Ave #111",
+        "city": "Huntington Beach",
+        "lat": 33.674087249448796,
+        "long": -117.95272217015379,
+        "name": "Jersey Mike's Subs",
+        "tel": "7149637400",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18575 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.69255585145919,
+        "long": -117.9891785484756,
+        "name": "Panda Express",
+        "tel": "7143759338",
+        "zipcode": "92648"
+    },
+    {
+        "address": "1969 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.64615820612417,
+        "long": -117.91927456855774,
+        "name": "Pasta Connection",
+        "tel": "9496463484",
+        "zipcode": "92627"
+    },
+    {
+        "address": "120 5th St",
+        "city": "Huntington Beach",
+        "lat": 33.657888402095274,
+        "long": -118.00251960754395,
+        "name": "Johnny Rockets",
+        "tel": "7149609011",
+        "zipcode": "92648"
+    },
+    {
+        "address": "213 5th St",
+        "city": "Huntington Beach",
+        "lat": 33.65907945,
+        "long": -118.001544,
+        "name": "Pete's Mexican Food",
+        "tel": "7149608797",
+        "zipcode": "92648"
+    },
+    {
+        "address": "9059 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.673197143149416,
+        "long": -117.96964150814651,
+        "name": "Zubie's Dry Dock",
+        "tel": "7149636362",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18691 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69078123475463,
+        "long": -117.95479774475098,
+        "name": "Philly's Best",
+        "tel": "7149682448",
+        "zipcode": "92708"
+    },
+    {
+        "address": "150 5th St",
+        "city": "Huntington Beach",
+        "lat": 33.658233155952196,
+        "long": -118.00224017641976,
+        "name": "U.S. Taco Co.",
+        "tel": "7145366728",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18279 Brookhurst St #4",
+        "city": "Fountain Valley",
+        "lat": 33.697412610054016,
+        "long": -117.955147,
+        "name": "Inka Cantina",
+        "tel": "7149654600",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18050 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.700944284456384,
+        "long": -117.95396343352722,
+        "name": "Claim Jumper",
+        "tel": "7149636711",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18279 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69761704536964,
+        "long": -117.95456808811156,
+        "name": "Applebee's",
+        "tel": "7149631835",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18951 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.68765425059714,
+        "long": -117.95445536041193,
+        "name": "Chipotle Mexican Grill",
+        "tel": "7149684003",
+        "zipcode": "92708"
+    },
+    {
+        "address": "899 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.64310056871035,
+        "long": -117.9362188432565,
+        "name": "Taqueria el Granjenal",
+        "tel": "9496454964",
+        "zipcode": "92627"
+    },
+    {
+        "address": "19065 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.68510356613091,
+        "long": -117.99037456512451,
+        "name": "Two Brothers Pizza",
+        "tel": "7148429838",
+        "zipcode": "92648"
+    },
+    {
+        "address": "843 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.6433518,
+        "long": -117.9339197,
+        "name": "The Wayfarer",
+        "tel": "9497640039",
+        "zipcode": "92627"
+    },
+    {
+        "address": "10084 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.67019308333333,
+        "long": -117.95282351,
+        "name": "Lamppost Pizza",
+        "tel": "7149639757",
+        "zipcode": "92646"
+    },
+    {
+        "address": "8491 Atlanta Ave",
+        "city": "Huntington Beach",
+        "lat": 33.65789666785943,
+        "long": -117.9802052729314,
+        "name": "Landmark Liquor",
+        "tel": "7145361177",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18856 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.688799,
+        "long": -117.95365512371063,
+        "name": "Sushi +",
+        "tel": "?",
+        "zipcode": "92708"
+    },
+    {
+        "address": "7101 W. Yorktown Ave. , Bldg., Ste. 3",
+        "city": "Huntington Beach",
+        "lat": 33.680652,
+        "long": -118.004464,
+        "name": "TOGO'S Sandwiches",
+        "tel": "7145369776",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19461 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.679703,
+        "long": -118.002061,
+        "name": "Panera Bread",
+        "tel": "7148454313",
+        "zipcode": "92648"
+    },
+    {
+        "address": "7101 Yorktown Ave",
+        "city": "Huntington Beach",
+        "lat": 33.68066658799612,
+        "long": -118.00437889806925,
+        "name": "Chipotle Mexican Grill",
+        "tel": "6572047171",
+        "zipcode": "92648"
+    },
+    {
+        "address": "21004 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.657432556152344,
+        "long": -117.9878921508789,
+        "name": "Jersey Mike's Subs",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "180 5th St Ste 130",
+        "city": "Huntington Beach",
+        "lat": 33.658405166912985,
+        "long": -118.0016111357461,
+        "name": "Ritter's Steam Kettle Cooking",
+        "tel": "7145367733",
+        "zipcode": "92648"
+    },
+    {
+        "address": "Yorktown Ave.",
+        "city": "Huntington Beach",
+        "lat": 33.680637,
+        "long": -118.00422745,
+        "name": "Sango Sushi",
+        "tel": "7149698548",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18461 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.694776,
+        "long": -117.954569,
+        "name": "Mimi's Cafe",
+        "tel": "7149642533",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18889 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.68840508021264,
+        "long": -117.95445536041193,
+        "name": "Marie Callender's",
+        "tel": "7149636791",
+        "zipcode": "92708"
+    },
+    {
+        "address": "2150 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.652282474864776,
+        "long": -117.91875856149176,
+        "name": "Norm's Restaurant",
+        "tel": "9496310505",
+        "zipcode": "92627"
+    },
+    {
+        "address": "21100 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.6532543140639,
+        "long": -117.99446279006574,
+        "name": "Shades Restaurant & Bar",
+        "tel": "7148458000",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18120 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.70046258725043,
+        "long": -117.95372318967422,
+        "name": "G Burger Fountain Valley",
+        "tel": "?",
+        "zipcode": "92708"
+    },
+    {
+        "address": "221 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.659196677030494,
+        "long": -118.00152719020844,
+        "name": "Dos Toros Mexican Grill",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "9504 Hamilton Ave",
+        "city": "Huntington Beach",
+        "lat": 33.650230493547234,
+        "long": -117.96208577421949,
+        "name": "What A Lotta Pizza",
+        "tel": "7149649246",
+        "zipcode": "92646"
+    },
+    {
+        "address": "20362 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.666609493218075,
+        "long": -117.98797756262418,
+        "name": "McDonald's",
+        "tel": "7145367977",
+        "zipcode": "92648"
+    },
+    {
+        "address": "522 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.661784,
+        "long": -117.998725,
+        "name": "Thai Wave",
+        "tel": "7149600219",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18685 Main St Ste 107",
+        "city": "Huntington Beach",
+        "lat": 33.69208986,
+        "long": -117.992472,
+        "name": "Java City Bakery Cafe",
+        "tel": "7148425020",
+        "zipcode": "92648"
+    },
+    {
+        "address": "8468 Indianapolis Ave",
+        "city": "Huntington Beach",
+        "lat": 33.664675141316806,
+        "long": -117.98084735870361,
+        "name": "Pizza D'Oro",
+        "tel": "7145369383",
+        "zipcode": "92646"
+    },
+    {
+        "address": "21532 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.65006512803724,
+        "long": -117.95301675796509,
+        "name": "Carl's Jr. / Green Burrito",
+        "tel": "7149688433",
+        "zipcode": "92646"
+    },
+    {
+        "address": "590 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.64377741522563,
+        "long": -117.92273998260498,
+        "name": "Sushi Shibucho",
+        "tel": "?",
+        "zipcode": "92627"
+    },
+    {
+        "address": "106B Pacific Coast Hwy.",
+        "city": "Huntington Beach",
+        "lat": 33.657065633741496,
+        "long": -118.00171406982676,
+        "name": "SUBWAY",
+        "tel": "7143741916",
+        "zipcode": "92648"
+    },
+    {
+        "address": "2300 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.65666133495799,
+        "long": -117.91864985849725,
+        "name": "Niko Niko Sushi",
+        "tel": "9496453375",
+        "zipcode": "92626"
+    },
+    {
+        "address": "221 Main St Ste D",
+        "city": "Huntington Beach",
+        "lat": 33.65899185038734,
+        "long": -118.00051888711039,
+        "name": "Doppio Zero",
+        "tel": "7149692929",
+        "zipcode": "92648"
+    },
+    {
+        "address": "Brookhurst St",
+        "city": "Hb",
+        "lat": 33.65163337394036,
+        "long": -117.95443248012164,
+        "name": "basil thai cuisine",
+        "tel": "?",
+        "zipcode": "92646"
+    },
+    {
+        "address": "414 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.65761936377998,
+        "long": -118.00236026575003,
+        "name": "Papa Joe's",
+        "tel": "7149692553",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19461 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.679700059152694,
+        "long": -118.00224602222443,
+        "name": "Oggi's Pizza & Brewing Co.",
+        "tel": "7149698000",
+        "zipcode": "92648"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.658179656211885,
+        "long": -117.96956143391158,
+        "name": "Subway",
+        "tel": "?",
+        "zipcode": "92646"
+    },
+    {
+        "address": "10035 Adams Ave #101",
+        "city": "Huntington Beach",
+        "lat": 33.67403,
+        "long": -117.95297072,
+        "name": "Ayumi Japanese Grill",
+        "tel": "7143783788",
+        "zipcode": "92646"
+    },
+    {
+        "address": "21411 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.651747831552235,
+        "long": -117.95482144465905,
+        "name": "Perry's HB",
+        "tel": "9496731366",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18687 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69143674258723,
+        "long": -117.95512460761012,
+        "name": "Y\u014dtaro",
+        "tel": "7143786161",
+        "zipcode": "92708"
+    },
+    {
+        "address": "2000 Newport Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.64612698042137,
+        "long": -117.91344348042955,
+        "name": "Skosh Monahan's",
+        "tel": "9495480099",
+        "zipcode": "92627"
+    },
+    {
+        "address": "1525 Mesa Verde Dr E",
+        "city": "Costa Mesa",
+        "lat": 33.669819,
+        "long": -117.920586,
+        "name": "Al Forno Caffe",
+        "tel": "6572320100",
+        "zipcode": "92626"
+    },
+    {
+        "address": "19201 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.68407666683197,
+        "long": -117.95446283333334,
+        "name": "PHOtastic! Soups : Sandwiches : Pastries",
+        "tel": "7149648389",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18041 Magnolia St",
+        "city": "Fountain Valley",
+        "lat": 33.700676,
+        "long": -117.972864,
+        "name": "Hong Hai Dining",
+        "tel": "7149682199",
+        "zipcode": "92708"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.671449,
+        "long": -117.953416,
+        "name": "Hambone's",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "18302 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.69662742969621,
+        "long": -117.9885837755415,
+        "name": "Buffalo Wings N Things",
+        "tel": "7148482767",
+        "zipcode": "92648"
+    },
+    {
+        "address": "7041 Yorktown Ave",
+        "city": "Huntington Beach",
+        "lat": 33.68056437,
+        "long": -118.004973,
+        "name": "Pick Up Stix",
+        "tel": "7149604904",
+        "zipcode": "92648"
+    },
+    {
+        "address": "328 11th St",
+        "city": "Huntington Beach",
+        "lat": 33.663620183333336,
+        "long": -118.004995,
+        "name": "Chronic Tacos",
+        "tel": "7149600339",
+        "zipcode": "92648"
+    },
+    {
+        "address": "21064 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.656797,
+        "long": -117.9871344566311,
+        "name": "Sullivan Restaurant",
+        "tel": "7145368538",
+        "zipcode": "92648"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.646705397658614,
+        "long": -117.98605596843329,
+        "name": "Ribs, Pigs & Watermelon BBQ Comp",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "18030 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.701405,
+        "long": -117.95245,
+        "name": "Pick Up Stix",
+        "tel": "7149639000",
+        "zipcode": "92708"
+    },
+    {
+        "address": "9021 Atlanta Ave",
+        "city": "Huntington Beach",
+        "lat": 33.658325,
+        "long": -117.969636,
+        "name": "Bella Roma",
+        "tel": "7143785122",
+        "zipcode": "92646"
+    },
+    {
+        "address": "1951 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.64532871463057,
+        "long": -117.91929063309792,
+        "name": "Wienerschnitzel",
+        "tel": "9496315181",
+        "zipcode": "92627"
+    },
+    {
+        "address": "2101 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.650972,
+        "long": -117.919318,
+        "name": "Taco Jr",
+        "tel": "9496426230",
+        "zipcode": "92627"
+    },
+    {
+        "address": "2300 Harbor Blvd Ste N2",
+        "city": "Costa Mesa",
+        "lat": 33.656405,
+        "long": -117.91867,
+        "name": "Jersey Mike's Subs",
+        "tel": "9495159888",
+        "zipcode": "92626"
+    },
+    {
+        "address": "9941 Yorktown Avenue Yorktown Plaza",
+        "city": "Huntington Beach",
+        "lat": 33.68002196629945,
+        "long": -117.95482144465905,
+        "name": "Little Caesars Pizza",
+        "tel": "7149644477",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18959 Magnolia St",
+        "city": "Fountain Valley",
+        "lat": 33.68744604649924,
+        "long": -117.97153468139486,
+        "name": "Tio Flaco's Tacos",
+        "tel": "?",
+        "zipcode": "92708"
+    },
+    {
+        "address": "13838 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.70015396666667,
+        "long": -117.95400615,
+        "name": "PHO Banh Mi & Che Cali",
+        "tel": "7145936300",
+        "zipcode": "?"
+    },
+    {
+        "address": "20111 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.670713901519775,
+        "long": -117.95424553,
+        "name": "Market Broiler",
+        "tel": "7149637796",
+        "zipcode": "92646"
+    },
+    {
+        "address": "9965 Ellis Ave",
+        "city": "Costa Mesa",
+        "lat": 33.69450534552236,
+        "long": -117.95551357064515,
+        "name": "Full Moon Sushi",
+        "tel": "7149633214",
+        "zipcode": "92708"
+    },
+    {
+        "address": "21500 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.6509724,
+        "long": -117.990771,
+        "name": "The Californian",
+        "tel": "7148454776",
+        "zipcode": "92648"
+    },
+    {
+        "address": "200 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.6584638,
+        "long": -118.00072,
+        "name": "Coach's Mediterranean Grill",
+        "tel": "7149692233",
+        "zipcode": "92648"
+    },
+    {
+        "address": "2300 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.65663815490121,
+        "long": -117.91870594024658,
+        "name": "Panda Express",
+        "tel": "9496316069",
+        "zipcode": "92626"
+    },
+    {
+        "address": "300 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.65753850713429,
+        "long": -118.0015482315564,
+        "name": "Java Point Coffee",
+        "tel": "7143749256",
+        "zipcode": "92648"
+    },
+    {
+        "address": "615 W 19th St",
+        "city": "Costa Mesa",
+        "lat": 33.643272,
+        "long": -117.92419,
+        "name": "Paul's Famous Burgers",
+        "tel": "?",
+        "zipcode": "92627"
+    },
+    {
+        "address": "200 Main St Ste 114",
+        "city": "Huntington Beach",
+        "lat": 33.65801,
+        "long": -118.00102,
+        "name": "Bomburger",
+        "tel": "7149692662",
+        "zipcode": "92648"
+    },
+    {
+        "address": "2200 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.654412223420564,
+        "long": -117.91721060872078,
+        "name": "Amorelia Mexican Caf\u00e9",
+        "tel": "9496461422",
+        "zipcode": "92627"
+    },
+    {
+        "address": "19350 Goldenwest St",
+        "city": "Huntington Beach",
+        "lat": 33.681447436795324,
+        "long": -118.0057055787856,
+        "name": "McDonald's",
+        "tel": "7149602935",
+        "zipcode": "92648"
+    },
+    {
+        "address": "21452 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.65074967874963,
+        "long": -117.95322554066854,
+        "name": "ampm",
+        "tel": "7145939763",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18477 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.6941461,
+        "long": -117.9896636,
+        "name": "Denny's",
+        "tel": "7148422112",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19688 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.676383,
+        "long": -117.987118,
+        "name": "Capone's Italian Cucina",
+        "tel": "7145932888",
+        "zipcode": "92648"
+    },
+    {
+        "address": "21451 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.650933916666666,
+        "long": -117.95466366666666,
+        "name": "Pacific Crust Sandwiches",
+        "tel": "7149642100",
+        "zipcode": "92646"
+    },
+    {
+        "address": "10076 Adams Ave",
+        "city": "Huntington Beach",
+        "lat": 33.67012473023776,
+        "long": -117.9529910159455,
+        "name": "Shima Restaurant",
+        "tel": "7145938784",
+        "zipcode": "92646"
+    },
+    {
+        "address": "21020 Beach Blvd Bldg G",
+        "city": "Huntington Beach",
+        "lat": 33.65735258409356,
+        "long": -117.98837900161742,
+        "name": "Boardwalk Fresh Burgers and Fries",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19101 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.68528129409412,
+        "long": -117.9543752793832,
+        "name": "Wienerschnitzel",
+        "tel": "7149629431",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18962 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.687732,
+        "long": -117.953463,
+        "name": "McDonald's",
+        "tel": "7149688901",
+        "zipcode": "92708"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.656833,
+        "long": -118.001645,
+        "name": "BLK EARTH SEA SPIRITS",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "20383 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.66605825,
+        "long": -117.9889544,
+        "name": "Pizza Hut",
+        "tel": "7149607779",
+        "zipcode": "92648"
+    },
+    {
+        "address": "21006 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.657199,
+        "long": -117.987964,
+        "name": "Coach's Grille Fresh Mediterranean",
+        "tel": "7149603400",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19051 Magnolia St",
+        "city": "Huntington Beach",
+        "lat": 33.685872116666665,
+        "long": -117.97175721666666,
+        "name": "Taco Bell",
+        "tel": "7149651590",
+        "zipcode": "92646"
+    },
+    {
+        "address": "19320 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.681934,
+        "long": -117.98817,
+        "name": "El Pollo Loco",
+        "tel": "7149628500",
+        "zipcode": "92648"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.658323496842485,
+        "long": -118.00088487692908,
+        "name": "Brazilian Bites",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "1792 Monrovia Ave",
+        "city": "Costa Mesa",
+        "lat": 33.63934412787116,
+        "long": -117.93623028456311,
+        "name": "outpost kitchen",
+        "tel": "9498735123",
+        "zipcode": "92627"
+    },
+    {
+        "address": "18517 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.69386947056139,
+        "long": -117.95464984276133,
+        "name": "Rubio's",
+        "tel": "7143785232",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18645 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.69190971809574,
+        "long": -117.98916139159185,
+        "name": "Five Guys",
+        "tel": "7148614448",
+        "zipcode": "92648"
+    },
+    {
+        "address": "21205-21299 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.65485205597053,
+        "long": -118.00003051757812,
+        "name": "Kokomos Surfside Grill",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19692 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.67625771814324,
+        "long": -117.98722837211413,
+        "name": "L & L Hawaiian Barbecue",
+        "tel": "7149681898",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18649 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.69189702300755,
+        "long": -117.989428,
+        "name": "WaBa Grill Teriyaki House",
+        "tel": "7143759222",
+        "zipcode": "92648"
+    },
+    {
+        "address": "1661 Superior Ave",
+        "city": "Costa Mesa",
+        "lat": 33.634914,
+        "long": -117.925441,
+        "name": "Waffleholic Cafe",
+        "tel": "9493910003",
+        "zipcode": "92627"
+    },
+    {
+        "address": "19092 Beach Blvd Ste X",
+        "city": "Huntington Beach",
+        "lat": 33.684917737100015,
+        "long": -117.98785174459056,
+        "name": "Pho Tastee",
+        "tel": "7149631818",
+        "zipcode": "92648"
+    },
+    {
+        "address": "1640 Pomona Ave",
+        "city": "Costa Mesa",
+        "lat": 33.63414535949273,
+        "long": -117.92719714639155,
+        "name": "Boathouse Collective",
+        "tel": "9496463176",
+        "zipcode": "92627"
+    },
+    {
+        "address": "221 Main St Ste F",
+        "city": "Huntington Beach",
+        "lat": 33.65773818492428,
+        "long": -118.0006046660417,
+        "name": "G's Boat House",
+        "tel": "7149693100",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18529 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.693655,
+        "long": -117.954859,
+        "name": "Capriotti's Sandwich Shop",
+        "tel": "?",
+        "zipcode": "92708"
+    },
+    {
+        "address": "17920 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.702867654614614,
+        "long": -117.95253912597977,
+        "name": "Black Angus Restaurant",
+        "tel": "7149684477",
+        "zipcode": "92708"
+    },
+    {
+        "address": "706 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.65896,
+        "long": -118.00443,
+        "name": "Hot Stuff Pizza",
+        "tel": "7145366443",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19051 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.6859398406325,
+        "long": -117.95462433995453,
+        "name": "Arby's",
+        "tel": "7149645877",
+        "zipcode": "92646"
+    },
+    {
+        "address": "300 Pacific Coast Hwy",
+        "city": "Huntington Beach",
+        "lat": 33.65702,
+        "long": -118.001398,
+        "name": "Spark Woodfire Grill - Huntington Beach",
+        "tel": "7149600996",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19091 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.6854816503524,
+        "long": -117.95447824069927,
+        "name": "KFC",
+        "tel": "7149687521",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18279 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.697512252633665,
+        "long": -117.95491296560398,
+        "name": "The Flame Broiler",
+        "tel": "7149680086",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18782 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.68976077350438,
+        "long": -117.98822919842502,
+        "name": "IHOP",
+        "tel": "7149624400",
+        "zipcode": "92648"
+    },
+    {
+        "address": "200 Main St #116",
+        "city": "Huntington Beach",
+        "lat": 33.65717397735154,
+        "long": -118.002712726593,
+        "name": "IHOP",
+        "tel": "7143744553",
+        "zipcode": "92648"
+    },
+    {
+        "address": "7101 Yorktown Ave",
+        "city": "Huntington Beach",
+        "lat": 33.68068823474493,
+        "long": -118.0045904814332,
+        "name": "Bertucci's Pizza",
+        "tel": "7143747678",
+        "zipcode": "92648"
+    },
+    {
+        "address": "1941 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.64509938388999,
+        "long": -117.91935356619477,
+        "name": "El Pollo Loco",
+        "tel": "9496464493",
+        "zipcode": "92627"
+    },
+    {
+        "address": "19092 Beach Blvd Ste V",
+        "city": "Huntington Beach",
+        "lat": 33.68501026288655,
+        "long": -117.98785746359403,
+        "name": "Big Chopsticks - Huntington Beach",
+        "tel": "7149682169",
+        "zipcode": "92648"
+    },
+    {
+        "address": "17940 Brookhurst St",
+        "city": "Fountain Valley",
+        "lat": 33.70260114,
+        "long": -117.95393417,
+        "name": "Wendy's",
+        "tel": "7149642022",
+        "zipcode": "92708"
+    },
+    {
+        "address": "19142 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.684647,
+        "long": -117.98827,
+        "name": "SUBWAY",
+        "tel": "7149636767",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19091 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.68535339832306,
+        "long": -117.99023509025574,
+        "name": "Yamas Teriyaki",
+        "tel": "7145963908",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19102 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.68534036261955,
+        "long": -117.98825779337992,
+        "name": "Beach Burgers",
+        "tel": "7149689880",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19090 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.68541063043376,
+        "long": -117.95380327099434,
+        "name": "Jack in the Box",
+        "tel": "7149637772",
+        "zipcode": "92646"
+    },
+    {
+        "address": "?",
+        "city": "Fountain Valley",
+        "lat": 33.69599042985744,
+        "long": -117.95472420360383,
+        "name": "Shin-Sen-Gumi Yakitori",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "19022 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.68602614474843,
+        "long": -117.98844080098263,
+        "name": "Honey Baked Ham",
+        "tel": "7148488575",
+        "zipcode": "92648"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.685865,
+        "long": -118.00808126666666,
+        "name": "SUBWAY",
+        "tel": "?",
+        "zipcode": "92648"
+    },
+    {
+        "address": "19002 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.686432,
+        "long": -117.988294,
+        "name": "Taco Bell",
+        "tel": "7145939211",
+        "zipcode": "92648"
+    },
+    {
+        "address": "7101 Yorktown Ave #107",
+        "city": "Huntington Beach",
+        "lat": 33.68063079894039,
+        "long": -118.00459027290344,
+        "name": "Burtuccis NY Pizza By The Slice",
+        "tel": "7143747678",
+        "zipcode": "92648"
+    },
+    {
+        "address": "?",
+        "city": "Huntington Beach",
+        "lat": 33.685781595408486,
+        "long": -117.95433523885539,
+        "name": "Mr Pete's Grill",
+        "tel": "?",
+        "zipcode": "?"
+    },
+    {
+        "address": "2200 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.6559876684559,
+        "long": -117.91832374912032,
+        "name": "The Flame Broiler",
+        "tel": "9496312555",
+        "zipcode": "92627"
+    },
+    {
+        "address": "19171 Brookhurst St",
+        "city": "Huntington Beach",
+        "lat": 33.684322,
+        "long": -117.95442,
+        "name": "El Pollo Loco",
+        "tel": "7149642422",
+        "zipcode": "92646"
+    },
+    {
+        "address": "18687 Main St",
+        "city": "Huntington Beach",
+        "lat": 33.69213701666666,
+        "long": -117.9924613237381,
+        "name": "New York's Upper Crust Pizza",
+        "tel": "7148439222",
+        "zipcode": "92648"
+    },
+    {
+        "address": "18362 Beach Blvd",
+        "city": "Huntington Beach",
+        "lat": 33.696073340589315,
+        "long": -117.98824063640753,
+        "name": "Whatta Lotta Pizza",
+        "tel": "7148414395",
+        "zipcode": "92648"
+    },
+    {
+        "address": "2180 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.65376692178587,
+        "long": -117.918844379599,
+        "name": "Lupita's Restaurant",
+        "tel": "9495749196",
+        "zipcode": "92627"
+    },
+    {
+        "address": "Brookhurst",
+        "city": "Huntington Beach",
+        "lat": 33.70043112346712,
+        "long": -117.9528194122952,
+        "name": "Izakaya ku",
+        "tel": "7149633484",
+        "zipcode": "92708"
+    },
+    {
+        "address": "19125 Goldenwest St",
+        "city": "Huntington Beach",
+        "lat": 33.68485266176529,
+        "long": -118.00646040994671,
+        "name": "Carl's Jr. / Green Burrito",
+        "tel": "7143748505",
+        "zipcode": "92648"
+    },
+    {
+        "address": "?",
+        "city": "Fountain Valley",
+        "lat": 33.70203900155136,
+        "long": -117.97213902876308,
+        "name": "Tacos El Rancho",
+        "tel": "?",
+        "zipcode": "92708"
+    },
+    {
+        "address": "2259 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.65647419568327,
+        "long": -117.91965678898963,
+        "name": "Taco Bell",
+        "tel": "9497221920",
+        "zipcode": "92626"
+    },
+    {
+        "address": "1559 Placentia Ave",
+        "city": "Newport Beach",
+        "lat": 33.630959,
+        "long": -117.932389,
+        "name": "Seaside Catering & Events",
+        "tel": "9496316838",
+        "zipcode": "92663"
+    },
+    {
+        "address": "2235 Harbor Blvd",
+        "city": "Costa Mesa",
+        "lat": 33.65553259849548,
+        "long": -117.91949450969696,
+        "name": "Jack in the Box",
+        "tel": "9495487027",
+        "zipcode": "92627"
+    },
+    {
+        "address": "1525 Mesa Verde Dr E, Store 117",
+        "city": "Costa Mesa",
+        "lat": 33.669742,
+        "long": -117.920891,
+        "name": "Great Mex",
+        "tel": "7142411120",
+        "zipcode": "92626"
+    },
+    {
+        "address": "17938 Magnolia St",
+        "city": "Fountain Valley",
+        "lat": 33.702491,
+        "long": -117.97003698333333,
+        "name": "Mai Thai Restaurant",
+        "tel": "7149634929",
+        "zipcode": "92708"
+    },
+    {
+        "address": "18120 Brookhurst St Ste 7",
+        "city": "Fountain Valley",
+        "lat": 33.700281,
+        "long": -117.95342,
+        "name": "Jersey Mike's Subs",
+        "tel": "?",
+        "zipcode": "92708"
+    },
+    {
+        "address": "17900 Magnolia St",
+        "city": "Fountain Valley",
+        "lat": 33.70263104,
+        "long": -117.97145563333333,
+        "name": "SUBWAY",
+        "tel": "7143789925",
+        "zipcode": "92708"
+    }
+]
